@@ -6,27 +6,39 @@ author_profile: true
 toc: true
 ---
 
-## 🚀 주요 프로젝트 (Selected Projects)
+## 🔬 Selected Research & Engineering Projects
 
-여기에 본인이 참여했던 가장 자신 있는 프로젝트들을 정리합니다. 각 프로젝트는 **문제 해결 과정**과 **구체적인 성과** 위주로 작성하는 것이 좋습니다.
+### **Integrated Thermal Management Logic for Next-Gen EVs**
+*Lead Logic Design Engineer | Hyundai WIA | 2024 - Present*
 
-### **[프로젝트 제목 1: 예시]**
-*역할: 주도적 연구원 / 개발자 | 기간: 202X.XX - 202X.XX*
+Designed and optimized control algorithms for the HVAC and Battery Thermal Management Systems (BTMS) of upcoming Electric Vehicle platforms.
 
-이 프로젝트에서 해결하고자 했던 핵심 과제와 본인의 역할을 설명하세요.
-
-* **핵심 기술:** C++, Python, MATLAB/Simulink 등
-* **주요 기여:** 제어 알고리즘 설계 및 시뮬레이션 환경 구축
-* **성과:** 효율성 00% 개선 또는 특정 기술 학회 발표 등
+* **Key Technical Contributions:**
+    * Developed a predictive control logic to optimize cabin temperature and battery longevity, utilizing MATLAB/Simulink for Model-Based Design (MBD).
+    * Implemented rigorous **HIL (Hardware-in-the-Loop) and SIL (Software-in-the-Loop)** simulations to validate control strategies against extreme environmental edge cases.
+    * Reduced thermal energy consumption by optimizing the coolant loop management logic for BLDC motors.
+* **Impact:** Technical insights were presented at the **2025 HMG Technical Conference**, focusing on temperature control performance optimization.
 
 ---
 
-### **[프로젝트 제목 2: 예시]**
-*역할: 시스템 설계 엔지니어 | 기간: 202X.XX - 202X.XX*
+### **Autonomous Drone Control & ROS Integration**
+*Research Intern | UNLV DASL Lab | 2021*
 
-두 번째 프로젝트 내용을 작성하세요. 사진이나 도식화된 이미지가 있다면 아래 코드를 활용해 넣을 수 있습니다.
+Conducted research on autonomous robotic systems under Dr. Paul Oh, focusing on the stability and environmental perception of UAVs.
 
-{% include figure image_path="/assets/images/project_diagram.jpg" alt="프로젝트 도식" caption="시스템 구성도 및 시뮬레이션 결과" %}
+* **Key Technical Contributions:**
+    * Integrated sensors and flight controllers using **ROS (Robot Operating System)** to enable autonomous navigation in simulated environments.
+    * Applied PID and basic Kalman Filter algorithms to stabilize flight dynamics under varying payload conditions.
+    * Collaborated on hardware-software integration for multi-rotor platforms, ensuring real-time data processing from LiDAR/IMU sensors.
 
-* **주요 기술:** ROS, PID 제어, 센서 융합
-* **해결 방법:** 비선형 동역학 모델을 기반으로 한 강인 제어기 구현
+---
+
+### **Reusable Rocket Thrust Vector Control (TVC)**
+*Capstone Design Project | Korea Aerospace University*
+
+Engineered a small-scale reusable rocket prototype with an active Thrust Vector Control system for vertical landing stability.
+
+* **Key Technical Contributions:**
+    * Modeled 6-DOF rocket dynamics and designed a TVC algorithm using C++ to maintain vertical orientation during descent.
+    * Designed the mechanical gimbal system for the rocket motor to facilitate precise angular adjustments.
+    * Conducted structural analysis to ensure airframe integrity during high-thrust maneuvers.
