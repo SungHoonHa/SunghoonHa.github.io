@@ -13,6 +13,10 @@ plugins:
   - jekyll-include-cache
   - jekyll-sitemap
 
+include:
+  - _pages
+  - _data
+
 # 사용자 정보
 author:
   name: "Sunghoon Ha"
