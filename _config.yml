@@ -1,0 +1,37 @@
+title: "Sunghoon Ha"
+description: "Research Engineer in System Dynamics & Control"
+url: "https://SunghoonHa.github.io"
+baseurl: ""
+
+# 테마 설정
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "default"
+
+# 필수 플러그인
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-sitemap
+
+# 사용자 정보
+author:
+  name: "Sunghoon Ha"
+  avatar: "/assets/images/Main_Photo.jpg"
+  bio: "Aspiring Ph.D. Researcher | Vehicle HVAC Design Engineer at Hyundai WIA"
+  location: "Seoul, South Korea"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:sunghoon.ha4@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/SunghoonHa"
+
+# 기본 레이아웃 설정
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
