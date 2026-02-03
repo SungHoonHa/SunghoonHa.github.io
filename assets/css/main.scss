@@ -1,0 +1,30 @@
+---
+---
+
+@charset "utf-8";
+
+/* 1. 테마의 기본 스타일을 먼저 불러옵니다 */
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/* 2. 여기서부터 성훈님의 커스텀 설정을 넣습니다 */
+
+html {
+  /* 기본 폰트 크기를 15px로 낮춥니다 (기본은 보통 16~18px) */
+  font-size: 15px !important; 
+}
+
+body {
+  /* 본문 줄 간격을 살짝 좁혀서 더 정갈하게 만듭니다 */
+  line-height: 1.4;
+}
+
+/* 사이드바 프로필의 폰트도 조금 더 작게 조절 */
+.sidebar {
+  font-size: 14px !important;
+}
+
+/* 제목(h1~h3) 크기들도 한 단계씩 다운 */
+h1 { font-size: 1.8rem !important; }
+h2 { font-size: 1.5rem !important; }
+h3 { font-size: 1.25rem !important; }
