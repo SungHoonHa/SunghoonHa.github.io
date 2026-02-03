@@ -15,8 +15,8 @@ author_profile: true
   • Republic of Korea Army (ROKA) Army Aviation School
 </p>
 
-<div style="max-width: 650px; margin: 2em auto; text-align: center;">
-  <img src="/assets/images/surion.png" alt="KUH-1 Surion Helicopter" style="width: 100%;">
+<div style="max-width: 550px; margin: 2em auto; text-align: center;">
+  <img src="/assets/images/surion.png" style="width: 100%;">
   <p style="font-size: 0.85em; color: #666; margin-top: 0.8em;">The KUH-1 Surion helicopter.</p>
 </div>
 
