@@ -7,3 +7,9 @@ main:
     url: /projects/
   - title: "Military"
     url: /military/
+  - title: "Life"
+    url: /life/
+  - title: "Publications"
+    url: /publications/
+  - title: "CV"
+    url: /assets/docs/CV_Sunghoon_Ha.pdf
