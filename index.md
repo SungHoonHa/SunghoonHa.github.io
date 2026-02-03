@@ -5,7 +5,7 @@ author_profile: true
 
 # Hello, I am Sunghoon Ha
 
-![Sunghoon Ha](/assets/images/Main_Photo.jpg){: .align-center width="300px"}
+![Sunghoon Ha](/assets/images/Main_Photo.jpg){: .align-center width="150px"}
 
 Research Engineer in **System Dynamics & Control**, currently leading thermal management logic design at **Hyundai WIA**.
 
