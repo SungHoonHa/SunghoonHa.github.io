@@ -9,7 +9,7 @@ author_profile: true
 **Republic of Korea Army (ROKA) Army Aviation School**
 
 <div style="max-width: 600px; margin: 0 auto;">
-  {% include figure image_path="/assets/images/surion_heli.jpg" alt="KUH-1 Surion Helicopter" caption="The KUH-1 Surion indigenous utility helicopter." %}
+  {% include figure image_path="/assets/images/surion_.png" alt="KUH-1 Surion Helicopter" caption="The KUH-1 Surion helicopter." %}
 </div>
 
 ### "Applying Systems Reliability in High-Stakes Environments"
