@@ -7,7 +7,10 @@ author_profile: true
 
 ## 🚁 KUH-1 Surion Crew Member (Aug 2018 ~ Apr 2020)
 **Republic of Korea Army (ROKA) Army Aviation School**
-{% include figure image_path="/assets/images/surion.png" alt="KUH-1 Surion Helicopter" caption="The KUH-1 Surion helicopter." %}
+
+<div style="max-width: 600px; margin: 0 auto;">
+  {% include figure image_path="/assets/images/surion_heli.jpg" alt="KUH-1 Surion Helicopter" caption="The KUH-1 Surion indigenous utility helicopter." %}
+</div>
 
 ### "Applying Systems Reliability in High-Stakes Environments"
 
