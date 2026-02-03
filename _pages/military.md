@@ -10,6 +10,10 @@ author_profile: true
 
 ### "Applying Systems Reliability in High-Stakes Environments"
 
+{% include figure image_path="/assets/images/surion.png" alt="KUH-1 Surion Helicopter" caption="The KUH-1 Surion indigenous utility helicopter." %}
+
+{% include figure image_path="/assets/images/KUH-1_1.jpg" alt="Crew Member Operations" caption="Conducting in-flight system monitoring duties." %}
+
 Serving as a crew member on the **KUH-1 Surion**, Korea's indigenous utility helicopter, provided a unique operational perspective on aerospace systems. This experience bridged the gap between theoretical engineering and field reliability.
 
 * **Operational Engineering:** Conducted pre-flight inspections and in-flight monitoring of complex avionic and mechanical systems under demanding conditions.
