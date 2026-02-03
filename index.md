@@ -5,6 +5,8 @@ author_profile: true
 
 # Hello, I am Sunghoon Ha
 
+![Sunghoon Ha](/assets/images/Main_Photo.jpg){: .align-center width="300px"}
+
 Research Engineer in **System Dynamics & Control**, currently leading thermal management logic design at **Hyundai WIA**.
 
 I specialize in bridging **Thermal Management Systems** and **Robotics**, with a focus on EV efficiency and advanced control theory.
@@ -15,4 +17,3 @@ I specialize in bridging **Thermal Management Systems** and **Robotics**, with a
 * **Technical:** MATLAB/Simulink, Python, C++, ROS
 
 ---
-더 자세한 경력은 상단 **Experience** 메뉴에서 확인하실 수 있습니다.
