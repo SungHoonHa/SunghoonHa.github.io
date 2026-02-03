@@ -4,14 +4,14 @@ title: "Military Service"
 permalink: /military/
 author_profile: true
 ---
-{% include figure image_path="/assets/images/surion.png" alt="KUH-1 Surion Helicopter" caption="The KUH-1 Surion indigenous utility helicopter." %}
 
 ## 🚁 KUH-1 Surion Crew Member (Aug 2018 ~ Apr 2020)
 **Republic of Korea Army (ROKA) Army Aviation School**
+{% include figure image_path="/assets/images/surion.png" alt="KUH-1 Surion Helicopter" caption="The KUH-1 Surion helicopter." %}
 
 ### "Applying Systems Reliability in High-Stakes Environments"
 
-{% include figure image_path="/assets/images/KUH-1_1.jpg" alt="Crew Member Operations" caption="Conducting in-flight system monitoring duties." %}
+![Crew Member Operations](/assets/images/KUH-1_1.jpg){: .align-right width="200px"}
 
 Serving as a crew member on the **KUH-1 Surion**, Korea's indigenous utility helicopter, provided a unique operational perspective on aerospace systems. This experience bridged the gap between theoretical engineering and field reliability.
 
