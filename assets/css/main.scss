@@ -11,7 +11,7 @@
 
 html {
   /* 기본 폰트 크기를 15px로 낮춥니다 (기본은 보통 16~18px) */
-  font-size: 15px !important; 
+  font-size: 16px !important; 
 }
 
 body {
@@ -21,10 +21,10 @@ body {
 
 /* 사이드바 프로필의 폰트도 조금 더 작게 조절 */
 .sidebar {
-  font-size: 14px !important;
+  font-size: 15px !important;
 }
 
 /* 제목(h1~h3) 크기들도 한 단계씩 다운 */
-h1 { font-size: 1.8rem !important; }
-h2 { font-size: 1.5rem !important; }
-h3 { font-size: 1.25rem !important; }
+h1 { font-size: 2.0rem !important; }
+h2 { font-size: 1.8rem !important; }
+h3 { font-size: 1.5rem !important; }
