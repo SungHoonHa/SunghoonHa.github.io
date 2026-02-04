@@ -1,12 +1,13 @@
 ---
 layout: single
-# title: "Military Service"  <-- 상단 자동 타이틀을 끄고 수동으로 중앙 정렬합니다.
 permalink: /military/
 author_profile: true
 ---
 
-<h1 style="text-align: center; font-size: 2.5em; margin-bottom: 0.3em;">Military Service</h1>
-
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 0.3em;">
+  <h1 style="margin: 0; font-size: 2.5em;">Military Service</h1>
+  <img src="/assets/images/mark.png" alt="Army Aviation School Mark" style="height: 50px; width: auto;">
+</div>
 <h3 style="text-align: center; font-size: 1.3em; white-space: nowrap; color: #333;">
   🚁 KUH-1 Surion Crew Member (Aug 2018 ~ Apr 2020)
 </h3>
@@ -27,12 +28,15 @@ author_profile: true
 </h4>
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+
   <div style="flex: 1;">
     Serving as a crew member on the <strong>KUH-1 Surion</strong>, Korea’s indigenous utility helicopter, provided a unique operational perspective on aerospace systems. This experience bridged the gap between theoretical engineering and field reliability.
   </div>
-  <div style="flex: 0 0 300px;"> <img src="/assets/images/KUH-1_1.jpg" alt="Crew Member Operations" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+  <div style="flex: 0 0 200px;">
+    <img src="/assets/images/KUH-1_1.jpg" alt="Crew Member Operations" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
-</div>
+  </div>
 
 <ul>
   <li><strong>Operational Engineering:</strong> Conducted pre-flight inspections and in-flight monitoring of complex avionic and mechanical systems under demanding conditions.</li>
