@@ -6,7 +6,7 @@ author_profile: true
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 0.3em;">
   <h1 style="margin: 0; font-size: 2.5em;">Military Service</h1>
-  <img src="/assets/images/Mark.png" alt="Army Aviation School Mark" style="height: 50px; width: auto;">
+  <img src="/assets/images/Mark.png" alt="Army Aviation School Mark" style="height: 100px; width: auto;">
 </div>
 <h3 style="text-align: center; font-size: 1.3em; white-space: nowrap; color: #333;">
   🚁 KUH-1 Surion Crew Member (Aug 2018 ~ Apr 2020)
@@ -16,7 +16,7 @@ author_profile: true
   • Republic of Korea Army (ROKA) Army Aviation School
 </p>
 
-<div style="max-width: 500px; margin: 2em auto; text-align: center;">
+<div style="max-width: 400px; margin: 2em auto; text-align: center;">
   <img src="/assets/images/surion.png" alt="KUH-1 Surion Helicopter" style="width: 100%;">
   <p style="font-size: 0.85em; color: #666; margin-top: 0.8em;">The KUH-1 Surion helicopter.</p>
 </div>
@@ -33,7 +33,7 @@ author_profile: true
     Serving as a crew member on the <strong>KUH-1 Surion</strong>, Korea’s indigenous utility helicopter, provided a unique operational perspective on aerospace systems. This experience bridged the gap between theoretical engineering and field reliability.
   </div>
 
-  <div style="flex: 0 0 120px;">
+  <div style="flex: 0 0 100px;">
     <img src="/assets/images/KUH-1_1.jpg" alt="Crew Member Operations" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
   </div>
