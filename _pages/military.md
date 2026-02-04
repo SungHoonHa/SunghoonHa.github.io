@@ -16,7 +16,7 @@ author_profile: true
 </p>
 
 <div style="max-width: 650px; margin: 2em auto; text-align: center;">
-  <img src="/assets/images/surion.jpg" alt="KUH-1 Surion Helicopter" style="width: 100%;">
+  <img src="/assets/images/surion.png" alt="KUH-1 Surion Helicopter" style="width: 100%;">
   <p style="font-size: 0.85em; color: #666; margin-top: 0.8em;">The KUH-1 Surion helicopter.</p>
 </div>
 
@@ -26,10 +26,16 @@ author_profile: true
   "Applying Systems Reliability in High-Stakes Environments"
 </h4>
 
-![Crew Member Operations](/assets/images/KUH-1_1.jpg){: .align-right width="280px"}
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+  <div style="flex: 1;">
+    Serving as a crew member on the <strong>KUH-1 Surion</strong>, Korea’s indigenous utility helicopter, provided a unique operational perspective on aerospace systems. This experience bridged the gap between theoretical engineering and field reliability.
+  </div>
+  <div style="flex: 0 0 300px;"> <img src="/assets/images/KUH-1_1.jpg" alt="Crew Member Operations" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
+</div>
 
-Serving as a crew member on the **KUH-1 Surion**, Korea’s indigenous utility helicopter, provided a unique operational perspective on aerospace systems. This experience bridged the gap between theoretical engineering and field reliability.
-
-* **Operational Engineering:** Conducted pre-flight inspections and in-flight monitoring of complex avionic and mechanical systems under demanding conditions.
-* **Reliability & Safety:** Developed a profound understanding of system redundancy and failure mode effects while operating in high-pressure, real-world aviation environments.
-* **Teamwork & Leadership:** Coordinated closely with pilots and maintenance teams to ensure mission success and aircraft safety, fostering the collaborative communication skills essential for international research environments.
+<ul>
+  <li><strong>Operational Engineering:</strong> Conducted pre-flight inspections and in-flight monitoring of complex avionic and mechanical systems under demanding conditions.</li>
+  <li style="margin-top: 10px;"><strong>Reliability & Safety:</strong> Developed a profound understanding of system redundancy and failure mode effects while operating in high-pressure, real-world aviation environments.</li>
+  <li style="margin-top: 10px;"><strong>Teamwork & Leadership:</strong> Coordinated closely with pilots and maintenance teams to ensure mission success and aircraft safety, fostering the collaborative communication skills essential for international research environments.</li>
+</ul>
