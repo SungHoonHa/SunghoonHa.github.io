@@ -26,7 +26,23 @@ author_profile: true
   "Applying Systems Reliability in High-Stakes Environments"
 </h4>
 
-![Crew Member Operations](/assets/images/KUH-1_1.jpg){: .align-right width="280px"}
+<div style="display: flex; align-items: flex-start; gap: 30px;">
+
+  <div style="flex: 1;">
+    Serving as a crew member on the **KUH-1 Surion**, Korea’s indigenous utility helicopter, provided a unique operational perspective on aerospace systems. This experience bridged the gap between theoretical engineering and field reliability.
+
+    <ul style="margin-top: 1em;">
+      <li><strong>Operational Engineering:</strong> Conducted pre-flight inspections and in-flight monitoring of complex avionic and mechanical systems under demanding conditions.</li>
+      <li><br></li> <li><strong>Reliability & Safety:</strong> Developed a profound understanding of system redundancy and failure mode effects while operating in high-pressure, real-world aviation environments.</li>
+      <li><br></li> <li><strong>Teamwork & Leadership:</strong> Coordinated closely with pilots and maintenance teams to ensure mission success and aircraft safety, fostering the collaborative communication skills essential for international research environments.</li>
+    </ul>
+  </div>
+
+  <div style="flex: 0 0 400px; margin-top: 5px;">
+    <img src="/assets/images/KUH-1_1.jpg" alt="Crew Member Operations" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
+
+</div>
 
 Serving as a crew member on the **KUH-1 Surion**, Korea’s indigenous utility helicopter, provided a unique operational perspective on aerospace systems. This experience bridged the gap between theoretical engineering and field reliability.
 
