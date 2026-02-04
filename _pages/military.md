@@ -4,10 +4,8 @@ permalink: /military/
 author_profile: true
 ---
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 0.3em;">
-  <h1 style="margin: 0; font-size: 2.5em;">Military Service</h1>
-  <img src="/assets/images/Mark.png" alt="Army Aviation School Mark" style="height: 100px; width: auto;">
-</div>
+<h1 style="text-align: center; font-size: 2.5em; margin-bottom: 0.3em;">Military Service</h1>
+
 <h3 style="text-align: center; font-size: 1.3em; white-space: nowrap; color: #333;">
   🚁 KUH-1 Surion Crew Member (Aug 2018 ~ Apr 2020)
 </h3>
@@ -16,11 +14,18 @@ author_profile: true
   • Republic of Korea Army (ROKA) Army Aviation School
 </p>
 
-<div style="max-width: 400px; margin: 2em auto; text-align: center;">
-  <img src="/assets/images/surion.png" alt="KUH-1 Surion Helicopter" style="width: 100%;">
-  <p style="font-size: 0.85em; color: #666; margin-top: 0.8em;">The KUH-1 Surion helicopter.</p>
-</div>
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px; margin: 2em auto; max-width: 800px;">
 
+  <div style="text-align: center;">
+    <img src="/assets/images/surion.png" alt="KUH-1 Surion Helicopter" style="width: 400px; height: auto; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <p style="font-size: 0.85em; color: #666; margin-top: 0.5em;">The KUH-1 Surion helicopter.</p>
+  </div>
+
+  <div>
+    <img src="/assets/images/Mark.png" alt="Army Aviation School Mark" style="width: 150px; height: auto;">
+  </div>
+
+</div>
 <hr style="border: 0.5px solid #eee; margin: 2em 0;">
 
 <h4 style="font-size: 1.15em; white-space: nowrap; margin-bottom: 1em; font-weight: bold;">
@@ -28,15 +33,13 @@ author_profile: true
 </h4>
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
-
   <div style="flex: 1;">
     Serving as a crew member on the <strong>KUH-1 Surion</strong>, Korea’s indigenous utility helicopter, provided a unique operational perspective on aerospace systems. This experience bridged the gap between theoretical engineering and field reliability.
   </div>
-
-  <div style="flex: 0 0 100px;">
+  <div style="flex: 0 0 200px;">
     <img src="/assets/images/KUH-1_1.jpg" alt="Crew Member Operations" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
-  </div>
+</div>
 
 <ul>
   <li><strong>Operational Engineering:</strong> Conducted pre-flight inspections and in-flight monitoring of complex avionic and mechanical systems under demanding conditions.</li>
