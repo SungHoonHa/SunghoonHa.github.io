@@ -16,7 +16,7 @@ author_profile: true
 </p>
 
 <div style="max-width: 650px; margin: 2em auto; text-align: center;">
-  <img src="/assets/images/surion_heli.jpg" alt="KUH-1 Surion Helicopter" style="width: 100%;">
+  <img src="/assets/images/surion.jpg" alt="KUH-1 Surion Helicopter" style="width: 100%;">
   <p style="font-size: 0.85em; color: #666; margin-top: 0.8em;">The KUH-1 Surion helicopter.</p>
 </div>
 
