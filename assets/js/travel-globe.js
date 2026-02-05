@@ -55,7 +55,30 @@ if (!canvas) {
     { region: REGION.EUROPE, country: "Romania", city: "Bucharest", lat: 44.4268, lon: 26.1025 },
     { region: REGION.EUROPE, country: "Slovakia", city: "Bratislava", lat: 48.1486, lon: 17.1077 },
     { region: REGION.OCEANIA, country: "Australia", city: "Sydney", lat: -33.8688, lon: 151.2093 },
-    { region: REGION.NORTH_AMERICA, country: "USA", city: "New York", lat: 40.7128, lon: -74.0060 },
+    { region: REGION.NORTH_AMERICA, country: "USA", city: "West Quoddy Head, ME", lat: 44.8150, lon: -66.9504 },
+    { region: REGION.NORTH_AMERICA, country: "USA", city: "Manchester, NH", lat: 42.9956, lon: -71.4548 },
+    { region: REGION.NORTH_AMERICA, country: "USA", city: "Boston, MA", lat: 42.3601, lon: -71.0589 },
+    { region: REGION.NORTH_AMERICA, country: "USA", city: "New York, NY", lat: 40.7128, lon: -74.0060 },
+    { region: REGION.NORTH_AMERICA, country: "USA", city: "Princeton, NJ", lat: 40.3431, lon: -74.6551 },
+    { region: REGION.NORTH_AMERICA, country: "USA", city: "Philadelphia, PA", lat: 39.9526, lon: -75.1652 },
+    { region: REGION.NORTH_AMERICA, country: "USA", city: "Washington D.C.", lat: 38.9072, lon: -77.0369 },
+    { region: REGION.NORTH_AMERICA, country: "USA", city: "Richmond, VA", lat: 37.5407, lon: -77.4360 },
+
+    // Midwest
+    { region: REGION.NORTH_AMERICA, country: "USA", city: "Pittsburgh, PA", lat: 40.4406, lon: -79.9959 },
+    { region: REGION.NORTH_AMERICA, country: "USA", city: "Columbus, OH", lat: 39.9612, lon: -82.9988 },
+    { region: REGION.NORTH_AMERICA, country: "USA", city: "Indianapolis, IN", lat: 39.7684, lon: -86.1581 },
+    { region: REGION.NORTH_AMERICA, country: "USA", city: "West Lafayette, IN", lat: 40.4259, lon: -86.9081 },
+    { region: REGION.NORTH_AMERICA, country: "USA", city: "Chicago, IL", lat: 41.8781, lon: -87.6298 },
+    { region: REGION.NORTH_AMERICA, country: "USA", city: "Des Moines, IA", lat: 41.5868, lon: -93.6250 },
+    { region: REGION.NORTH_AMERICA, country: "USA", city: "Omaha, NE", lat: 41.2565, lon: -95.9345 },
+
+    // The West
+    { region: REGION.NORTH_AMERICA, country: "USA", city: "Denver, CO", lat: 39.7392, lon: -104.9903 },
+    { region: REGION.NORTH_AMERICA, country: "USA", city: "Moab (Arches), UT", lat: 38.7331, lon: -109.5925 },
+    { region: REGION.NORTH_AMERICA, country: "USA", city: "Las Vegas, NV", lat: 36.1716, lon: -115.1391 },
+    { region: REGION.NORTH_AMERICA, country: "USA", city: "Phoenix, AZ", lat: 33.4484, lon: -112.0740 },
+    { region: REGION.NORTH_AMERICA, country: "USA", city: "San Francisco, CA", lat: 37.7749, lon: -122.4194 },
   ];
 
   const markerSizeByRegion = { [REGION.ASIA]: 0.075, [REGION.EUROPE]: 0.068, [REGION.OCEANIA]: 0.075, [REGION.NORTH_AMERICA]: 0.075 };
