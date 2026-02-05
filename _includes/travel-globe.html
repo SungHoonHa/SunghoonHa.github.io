@@ -1,0 +1,41 @@
+<div class="travel-widget">
+  <div class="travel-header">
+    <div>
+      <h2 class="travel-title">Global Footprint</h2>
+      <p class="travel-subtitle" id="travel-stats">Loading travel data...</p>
+    </div>
+    <div class="travel-legend" id="travel-legend"></div>
+  </div>
+
+  <div class="travel-globe">
+    <canvas id="travel-globe-canvas" aria-label="Interactive Travel Globe"></canvas>
+  </div>
+
+  <div class="travel-chips">
+    <div class="travel-chip-group"><div class="travel-chip-title">Asia</div><div class="travel-chip-list" id="chips-asia"></div></div>
+    <div class="travel-chip-group"><div class="travel-chip-title">Europe</div><div class="travel-chip-list" id="chips-europe"></div></div>
+    <div class="travel-chip-group"><div class="travel-chip-title">Oceania</div><div class="travel-chip-list" id="chips-oceania"></div></div>
+    <div class="travel-chip-group"><div class="travel-chip-title">North America</div><div class="travel-chip-list" id="chips-northamerica"></div></div>
+  </div>
+</div>
+
+<style>
+  .travel-widget { max-width: 980px; margin: 0 auto; color: #333; }
+  .travel-header { display:flex; gap:16px; align-items:flex-start; justify-content:space-between; margin-bottom: 20px; }
+  .travel-title { margin: 0; font-size: 1.5rem; font-weight: 700; }
+  .travel-subtitle { margin: 4px 0 0; opacity: .7; font-size: 0.95rem; }
+  .travel-legend { display:flex; gap:12px; flex-wrap:wrap; justify-content:flex-end; }
+  .legend-item { display:flex; gap:6px; align-items:center; font-size:.85rem; font-weight: 500; }
+  .legend-dot { width:10px; height:10px; border-radius:50%; display:inline-block; }
+  .travel-globe { width: min(500px, 100%); margin: 0 auto 30px; cursor: grab; }
+  #travel-globe-canvas { width: 100%; height: auto; aspect-ratio: 1/1; display:block; }
+  .travel-chips { display:grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+  @media (max-width: 768px) { .travel-chips { grid-template-columns: 1fr; } }
+  .travel-chip-group { padding: 15px; border: 1px solid #eee; border-radius: 12px; background: #fdfdfd; }
+  .travel-chip-title { font-size: 1rem; font-weight: 700; margin-bottom: 12px; border-bottom: 1px solid #eee; padding-bottom: 5px; }
+  .travel-chip-list { display:flex; flex-wrap:wrap; gap:8px; }
+  .chip { display:inline-flex; align-items:center; gap:6px; padding: 5px 10px; border-radius: 20px; border: 1px solid #eee; font-size: 0.85rem; background: #fff; }
+  .chip-dot { width: 7px; height: 7px; border-radius: 50%; display:inline-block; }
+</style>
+
+<script type="module" src="{{ '/assets/js/travel-globe.js' | relative_url }}"></script>
