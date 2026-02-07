@@ -10,20 +10,29 @@ toc: true
 
 ### 📄 Papers
 
-* <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div style="flex: 1; padding-right: 20px;">
-      **Design, Fabrication, and Testing of a Reusable Launch Vehicle Prototype System**
-      <br>
-      Kwon, M.Y., Jeong, W.J., ..., **Ha, S.H.** (2023).
-      <br>
-      *Capstone Design Project, Korea Aerospace University.*
-      <br>
-      Conducted roll control experiments and validated attitude controllers for a reusable rocket prototype.
-    </div>
-    <div style="flex: 0 0 300px;"> <img src="/assets/images/VFCV_2.jpg" alt="VFCV Project Image" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    </div>
+<div style="display: flex; gap: 20px; border: 1px solid #ececec; padding: 20px; border-radius: 12px; margin-bottom: 25px; background-color: #fcfcfc; align-items: center;">
+  <div style="flex: 1;">
+    <h4 style="margin-top: 0; color: #333;">Design, Fabrication, and Testing of a Reusable Launch Vehicle Prototype System</h4>
+    [cite_start]<p style="font-size: 0.9em; margin-bottom: 8px;">Kwon, M.Y., ..., <strong>Ha, S.H.</strong> (2023). [cite: 50]</p>
+    [cite_start]<p style="font-size: 0.85em; color: #666; font-style: italic;">Capstone Design Project, Korea Aerospace University. [cite: 28]</p>
+    [cite_start]<p style="font-size: 0.9em; line-height: 1.5;">Conducted roll control experiments and validated attitude controllers for a reusable rocket prototype. [cite: 30]</p>
   </div>
+  <div style="flex: 0 0 280px;">
+    <img src="/assets/images/VFCV_2.jpg" alt="VFCV Project" style="width: 100%; border-radius: 8px; border: 1px solid #eee;">
+  </div>
+</div>
 
+<div style="display: flex; gap: 20px; border: 1px solid #ececec; padding: 20px; border-radius: 12px; margin-bottom: 25px; background-color: #fcfcfc; align-items: center;">
+  <div style="flex: 1;">
+    <h4 style="margin-top: 0; color: #333;">Temperature Control Performance of EV HVAC System via PTC Heater Power Distribution</h4>
+    <p style="font-size: 0.9em; margin-bottom: 8px;">Kim, H.U., ..., <strong>Ha, S.H.</strong>, et al. (2025)[cite_start]. [cite: 46]</p>
+    [cite_start]<p style="font-size: 0.85em; color: #666; font-style: italic;">HMG Technical Conference, 2025. [cite: 48]</p>
+    [cite_start]<p style="font-size: 0.9em; line-height: 1.5;">Investigated energy efficiency optimization for next-generation EV thermal management systems. [cite: 47]</p>
+  </div>
+  <div style="flex: 0 0 280px; background: #eee; height: 150px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #aaa;">
+    Paper Image
+  </div>
+</div>
 * **A Study on the Temperature Control Performance of an HVAC System through Upper and Lower Power Distribution of a High-Voltage PTC Heater for Electric Vehicles**
     * Kim, H.U., ..., **Ha, S.H.**, and Kim, U.H. (2025).
     * *Presented at the HMG Technical Conference, 2025.*
@@ -52,18 +61,16 @@ toc: true
 
 ## 2. Presentations
 
-* <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div style="flex: 1; padding-right: 20px;">
-      **Next-Generation HVAC Development Concepts**
-      <br>
-      *GM TECH DAY Seminar (Oct 2025, Detroit).*
-      <br>
-      Selected as a technical representative to present next-generation thermal solutions to global engineering teams.
-    </div>
-    <div style="flex: 0 0 300px;">
-      <img src="/assets/images/GM_1.jpg" alt="GM Tech Day Presentation" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    </div>
+<div style="display: flex; gap: 20px; border: 1px solid #ececec; padding: 20px; border-radius: 12px; margin-bottom: 25px; background-color: #f9f9ff; border-left: 5px solid #0052cc; align-items: center;">
+  <div style="flex: 1;">
+    <h4 style="margin-top: 0; color: #0052cc;">Next-Generation HVAC Development Concepts</h4>
+    [cite_start]<p style="font-size: 0.9em; font-weight: bold; margin-bottom: 5px;">GM TECH DAY Seminar (Oct 2025, Detroit) [cite: 17]</p>
+    [cite_start]<p style="font-size: 0.9em; line-height: 1.5;">Selected as a technical representative to present next-generation thermal solutions to global engineering teams. [cite: 17]</p>
   </div>
+  <div style="flex: 0 0 280px;">
+    <img src="/assets/images/GM_1.jpg" alt="GM Tech Day" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+  </div>
+</div>
 
 * **Design and Testing of Reusable Launch Vehicle Prototype**
     * *Excellence Prize, Capstone Design Competition, Korea Aerospace University (2023).*
