@@ -10,10 +10,19 @@ toc: true
 
 ### 📄 Papers
 
-* **Design, Fabrication, and Testing of a Reusable Launch Vehicle Prototype System**
-    * Kwon, M.Y., Jeong, W.J., ..., **Ha, S.H.** (2023).
-    * *Capstone Design Project, Korea Aerospace University.*
-    * Conducted roll control experiments and validated attitude controllers for a reusable rocket prototype.
+* <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div style="flex: 1; padding-right: 20px;">
+      **Design, Fabrication, and Testing of a Reusable Launch Vehicle Prototype System**
+      <br>
+      Kwon, M.Y., Jeong, W.J., ..., **Ha, S.H.** (2023).
+      <br>
+      *Capstone Design Project, Korea Aerospace University.*
+      <br>
+      Conducted roll control experiments and validated attitude controllers for a reusable rocket prototype.
+    </div>
+    <div style="flex: 0 0 300px;"> <img src="/assets/images/VFCV_2.jpg" alt="VFCV Project Image" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    </div>
+  </div>
 
 * **A Study on the Temperature Control Performance of an HVAC System through Upper and Lower Power Distribution of a High-Voltage PTC Heater for Electric Vehicles**
     * Kim, H.U., ..., **Ha, S.H.**, and Kim, U.H. (2025).
