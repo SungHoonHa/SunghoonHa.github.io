@@ -8,17 +8,13 @@
   </div>
 
   <div class="travel-globe">
-    <!-- ✅ 중요: COBE는 canvas에 width/height "속성"이 있어야 안정적으로 뜸 -->
+    <!-- ✅ COBE 필수: canvas width/height "속성" -->
     <canvas
       id="travel-globe-canvas"
       width="1000"
       height="1000"
       aria-label="Interactive Travel Globe"
     ></canvas>
-
-    <noscript style="opacity:.7; font-size:.95rem;">
-      JavaScript를 켜야 지구본이 보여.
-    </noscript>
   </div>
 </div>
 
@@ -40,8 +36,10 @@
     display: block;
     border-radius: 18px;
     cursor: grab;
+    /* 배경이 완전 투명이라 "아무것도 없는 것처럼" 보일 때 대비 */
+    background: rgba(0,0,0,0.03);
   }
 </style>
 
-<!-- ✅ module로 로드해야 import가 동작함 -->
+<!-- ✅ module로 로드해야 import/dynamic import 동작 -->
 <script type="module" src="{{ '/assets/js/travel-globe.js' | relative_url }}"></script>
