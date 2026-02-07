@@ -60,7 +60,7 @@ toc: true
     <p style="line-height: 1.6;">Selected as a technical representative to present next-generation thermal solutions to global engineering teams.</p>
   </div>
   <div style="flex: 0 0 280px;">
-    <img src="/assets/images/GM-1.jpg" alt="GM Tech Day" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+    <img src="/assets/images/GM_1.jpg" alt="GM Tech Day" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
   </div>
 </div>
 
