@@ -1,4 +1,24 @@
-import createGlobe from "https://cdn.jsdelivr.net/npm/cobe@0.6.3/dist/index.esm.js";
+const elStats = document.getElementById("travel-stats");
+const canvas = document.getElementById("travel-globe-canvas");
+
+if (!canvas) {
+  console.debug("[travel-globe] canvas not found (skip)");
+} else {
+  let createGlobe;
+
+  try {
+    // ✅ 같은 사이트 내 파일로 로드 (CSP에 가장 안전)
+    const COBE_URL = new URL("../vendor/cobe/index.esm.js", import.meta.url);
+    ({ default: createGlobe } = await import(COBE_URL));
+  } catch (e) {
+    console.error("[travel-globe] cobe import failed:", e);
+    if (elStats) elStats.textContent = `Globe import failed: ${e?.message || e}`;
+    throw e;
+  }
+
+  // ↓↓↓ 아래는 너가 기존에 쓰던 코드 그대로 두면 됨
+  // (REGION, regionColor, places, markers, createGlobe(...) 등)
+}
 
 const canvas = document.getElementById("travel-globe-canvas");
 
