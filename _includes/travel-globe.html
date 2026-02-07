@@ -8,20 +8,40 @@
   </div>
 
   <div class="travel-globe">
-    <canvas id="travel-globe-canvas" aria-label="Interactive Travel Globe"></canvas>
+    <!-- ✅ 중요: COBE는 canvas에 width/height "속성"이 있어야 안정적으로 뜸 -->
+    <canvas
+      id="travel-globe-canvas"
+      width="1000"
+      height="1000"
+      aria-label="Interactive Travel Globe"
+    ></canvas>
+
+    <noscript style="opacity:.7; font-size:.95rem;">
+      JavaScript를 켜야 지구본이 보여.
+    </noscript>
   </div>
 </div>
 
 <style>
   .travel-widget { max-width: 980px; margin: 0 auto; }
-  .travel-header { display:flex; gap:16px; align-items:flex-start; justify-content:space-between; margin-bottom: 20px; }
+  .travel-header { display:flex; gap:16px; align-items:flex-start; justify-content:space-between; margin-bottom: 18px; }
   .travel-title { margin: 0; font-size: 1.5rem; font-weight: 700; }
-  .travel-subtitle { margin: 4px 0 0; opacity: .7; font-size: 0.95rem; }
+  .travel-subtitle { margin: 4px 0 0; opacity: .75; font-size: 0.95rem; }
+
   .travel-legend { display:flex; gap:12px; flex-wrap:wrap; justify-content:flex-end; }
-  .legend-item { display:flex; gap:6px; align-items:center; font-size:.85rem; font-weight: 500; }
+  .legend-item { display:flex; gap:6px; align-items:center; font-size:.85rem; font-weight: 500; opacity:.9; }
   .legend-dot { width:10px; height:10px; border-radius:50%; display:inline-block; }
-  .travel-globe { width: min(550px, 100%); margin: 0 auto; cursor: grab; }
-  #travel-globe-canvas { width: 100%; height: auto; aspect-ratio: 1/1; display:block; }
+
+  .travel-globe { width: min(550px, 100%); margin: 0 auto; }
+  #travel-globe-canvas {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1 / 1;
+    display: block;
+    border-radius: 18px;
+    cursor: grab;
+  }
 </style>
 
+<!-- ✅ module로 로드해야 import가 동작함 -->
 <script type="module" src="{{ '/assets/js/travel-globe.js' | relative_url }}"></script>
