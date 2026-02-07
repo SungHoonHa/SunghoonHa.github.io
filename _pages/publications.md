@@ -52,8 +52,18 @@ toc: true
 
 ## 2. Presentations
 
-* **Next-Generation HVAC Development Concepts**
-    * *GM TECH DAY Seminar (Oct 2025, Detroit).*
-    * Selected as a technical representative to present next-generation thermal solutions to global engineering teams.
+* <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div style="flex: 1; padding-right: 20px;">
+      **Next-Generation HVAC Development Concepts**
+      <br>
+      *GM TECH DAY Seminar (Oct 2025, Detroit).*
+      <br>
+      Selected as a technical representative to present next-generation thermal solutions to global engineering teams.
+    </div>
+    <div style="flex: 0 0 300px;">
+      <img src="/assets/images/GM_1.jpg" alt="GM Tech Day Presentation" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    </div>
+  </div>
+
 * **Design and Testing of Reusable Launch Vehicle Prototype**
     * *Excellence Prize, Capstone Design Competition, Korea Aerospace University (2023).*
