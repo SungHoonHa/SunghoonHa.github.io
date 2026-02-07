@@ -1,5 +1,4 @@
-// ✅ jsDelivr dist ESM 대신 esm.sh 사용 (phenomenon 의존성 자동 해결)
-import createGlobe from "https://esm.sh/cobe@0.6.5?bundle";
+import createGlobe from "../vendor/cobe.standalone.js";
 
 const canvas = document.getElementById("travel-globe-canvas");
 const elStats = document.getElementById("travel-stats");
@@ -9,6 +8,13 @@ if (!canvas) {
   console.debug("[travel-globe] canvas not found (skip)");
 } else {
   try {
+    // ✅ WebGL 체크 (WebGL 꺼져있으면 무조건 빈 화면)
+    const gl = canvas.getContext("webgl2") || canvas.getContext("webgl");
+    if (!gl) {
+      if (elStats) elStats.textContent = "WebGL이 비활성화되어서 지구본을 렌더링할 수 없어 (브라우저 설정/그래픽 가속 확인)";
+      throw new Error("WebGL context not available");
+    }
+
     const REGION = {
       ASIA: "Asia",
       EUROPE: "Europe",
@@ -62,12 +68,8 @@ if (!canvas) {
     // UI
     const uniq = (arr) => Array.from(new Set(arr));
     const totalCountries = uniq(places.map(p => p.country)).length;
-    const perRegion = (r) => uniq(places.filter(p => p.region === r).map(p => p.country)).length;
 
-    if (elStats) {
-      elStats.textContent =
-        `Visited: ${totalCountries} countries (Asia ${perRegion(REGION.ASIA)} / Europe ${perRegion(REGION.EUROPE)} / Oceania ${perRegion(REGION.OCEANIA)} / North America ${perRegion(REGION.NORTH_AMERICA)})`;
-    }
+    if (elStats) elStats.textContent = `Visited: ${totalCountries} countries across 4 regions.`;
 
     const rgbCss = (rgb) => {
       const [r, g, b] = rgb.map(x => Math.round(x * 255));
@@ -133,7 +135,6 @@ if (!canvas) {
       theta = clamp(theta + dy * 0.003, -1.2, 1.2);
     });
 
-    // create globe
     createGlobe(canvas, {
       devicePixelRatio: dpr,
       width: 1000,
@@ -159,7 +160,7 @@ if (!canvas) {
     });
 
   } catch (e) {
-    console.error("[travel-globe] runtime error:", e);
+    console.error("[travel-globe] error:", e);
     if (elStats) elStats.textContent = `Travel globe error: ${e?.message || e}`;
   }
 }
