@@ -1,4 +1,4 @@
-import createGlobe from "https://cdn.skypack.dev/cobe";
+import createGlobe from "https://cdn.jsdelivr.net/npm/cobe@0.6.3/dist/index.esm.js";
 
 const canvas = document.getElementById("travel-globe-canvas");
 
