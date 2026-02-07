@@ -6,51 +6,49 @@ author_profile: true
 toc: true
 ---
 
-This section outlines my key engineering projects, spanning from aerospace control systems to industrial thermal management solutions.
+This section highlights my core engineering projects, demonstrating my ability to bridge theoretical modeling with high-fidelity hardware implementation.
 
 ---
 
-## 🚀 1. Reusable Launch Vehicle Prototype System
+## 🚀 1. Vertically Flying Cylindrical Vehicle (VFCV): Reusable Launch Vehicle
 **Capstone Design Project | Korea Aerospace University | 2023**
 
-Designed and validated a vertical takeoff and landing (VTOL) control system for a reusable rocket prototype, focusing on high-fidelity attitude control.
+Designed and fabricated a 6-DOF reusable rocket prototype capable of vertical takeoff and landing. This project required a multidisciplinary approach combining structural optimization and advanced control theory.
 
-* **Role:** Lead Control Logic Designer & Systems Integrator
-* **Tech Stack:** MATLAB/Simulink (Advanced), C++, PID Control, Sensor Fusion
-* **Achievement:** Awarded **Excellence Prize** at the KAU Capstone Design Competition.
+* **Role:** Lead Systems Engineer (Hardware & Control Logic Co-development)
+* **Tech Stack:** CATIA V5, MATLAB/Simulink, Python, Raspberry Pi (FCC), C++
+* **Key Achievement:** Awarded **Excellence Prize** at the KAU Capstone Competition.
 
 #### **Technical Deep-dive:**
-* **Attitude Control Logic:** Developed and implemented a robust PID-based Roll/Pitch/Yaw controller. Conducted extensive flight tests to validate the controller's performance under simulated atmospheric disturbances.
-* **Full-Cycle Engineering:** Managed the project from conceptual CAD design to hardware fabrication and ground hot-fire testing, ensuring alignment between theoretical control models and real-world physical dynamics.
+* **Structural Innovation (CATIA):** Engineered a **Semi-monocoque** airframe using 3D-printing-optimized designs. I developed a lightweight "Skin & Bar" structure, utilizing hexagonal reinforcements to maximize load resistance while minimizing mass.
+* **Thrust Vector Control (TVC):** Designed a **2-axis gimbal system** for a 90mm ducted fan, allowing for precise thrust vectoring. I integrated a fin-stabilization system to secure roll-axis control during high-speed ascent.
+* **HILS & Control Validation:** Developed a **6-DOF position and posture controller** based on quaternion math to avoid gimbal lock. I validated the system through **Hardware-in-the-Loop Simulation (HILS)**, using a Raspberry Pi as the Flight Control Computer (FCC) to interface with real-time sensors (MTi-8 INS).
+* **Challenge Solved:** Overcame extreme propulsion-induced heat loads by optimizing insulation layouts without exceeding the strict mass budget for the vertical landing phase.
 
 ---
 
-## 🚙 2. Kia PV5 HVAC Module Development
+## 🤖 2. Avatar-Kairos Project: Remote-Controlled Vehicle Conversion
+**Research Internship | University of Nevada, Las Vegas (UNLV) | 2023**
+
+Collaborated with the Drones and Autonomous Systems Lab (DASL) to convert a standard, inoperable electric vehicle into a fully functional, remote-controlled research platform.
+
+* **Role:** Mechanical & Systems Research Intern
+* **Tech Stack:** CNC Machining, UOMO Control Units, Power System Engineering
+* **Core Tasks:** Vehicle electrification, remote-link integration, and custom part manufacturing.
+
+#### **Technical Deep-dive:**
+* **Hardware Transformation:** Successfully transformed an inoperable electric golf cart into a drive-by-wire system. This involved designing and manufacturing custom mounting brackets and mechanical linkages using **CNC mills**.
+* **System Debugging (UOMO/Shepherd):** Integrated Kairos Autonomi’s **UOMO control units** for remote steering and acceleration. I resolved critical signal-blinking issues in the Shepherd interface by identifying and fixing wiring disturbances after component reassembly.
+* **Power System Recovery:** Diagnosed a complete battery failure in the vehicle's powertrain; successfully restored system functionality by precisely re-balancing the electrolyte levels with distilled water, saving the project significant hardware costs.
+
+---
+
+## 🚙 3. Kia PV5 HVAC Module Development
 **Industrial Lead Project | Hyundai WIA | 2024 – Present**
 
-Lead the mechanical design and system optimization for the HVAC module of Kia’s first dedicated PBV (Platform Beyond Vehicle), the PV5.
+Spearheaded the mechanical architecture and thermal optimization for the HVAC module of Kia’s first dedicated PBV (Platform Beyond Vehicle).
 
-* **Role:** Lead Mechanical Design Engineer
-* **Tech Stack:** CATIA V5 (Advanced), NVH Simulation, Tolerance Analysis
-* **Objective:** Achieve ultra-high energy efficiency and superior NVH (Noise, Vibration, Harshness) performance for next-gen EV platforms.
-
-#### **Technical Deep-dive:**
-* **Mechanism Optimization:** Redesigned internal cam-trajectories and door sealing mechanisms to minimize internal air leakage, directly contributing to increased thermal efficiency and EV driving range.
-* **NVH & Reliability:** Eliminated whistle and booming noises by refining door geometries and implementing dual-injection rubber materials. Optimized rib structures in the housing case to prevent deformation during vehicle assembly (cockpit decking).
-
----
-
-## ⚡ 3. Advanced EV Thermal Management & Smart Intake
-**R&D & Patent Portfolio | Hyundai WIA | 2024 – 2025**
-
-Researched next-generation heating systems and intelligent airflow control logic, resulting in a significant intellectual property portfolio.
-
-* **Role:** Lead Inventor
-* **Tech Stack:** Thermal Systems Simulation, Control Algorithm Design
-* **Achievement:** Authored **7+ Pending Patents** and presented findings at the **GM TECH DAY** in Detroit.
-
-#### **Technical Deep-dive:**
-* **Smart Intake Logic:** Developed an intake control algorithm that ensures linear fresh/recirculated air mixing and prevents unplanned ram-air intrusion during high-speed operation.
-* **High-Voltage PTC Research:** Investigated power distribution strategies for PTC heaters to optimize cabin warm-up times while minimizing battery drain—a critical factor for cold-weather EV performance.
+* **Key Solution:** Redesigned internal **cam-trajectories** using CATIA V5 to ensure airtight sealing and zero mode-door leakage, which is critical for maximizing the driving range of the EV platform.
+* **NVH Mastery:** Successfully suppressed high-frequency whistle and booming noises by tuning door geometries and applying advanced **dual-injection** materials, meeting stringent global noise standards for premium EVs.
 
 ---
