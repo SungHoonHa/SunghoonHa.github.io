@@ -1,27 +1,20 @@
 <div class="travel-widget">
-  <div class="travel-header">
+  <div class="travel-header" style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 20px;">
     <div>
-      <h2 class="travel-title">Global Footprint</h2>
-      <p class="travel-subtitle" id="travel-stats">Loading travel data...</p>
+      <h2 class="travel-title" style="margin: 0; font-size: 1.5rem; font-weight: 700;">Global Footprint</h2>
+      <p id="travel-stats" style="margin: 4px 0 0; opacity: 0.7; font-size: 0.95rem;">Loading travel data...</p>
     </div>
-    <div class="travel-legend" id="travel-legend"></div>
+    <div id="travel-legend" style="display: flex; gap: 12px; flex-wrap: wrap; font-size: 0.85rem;"></div>
   </div>
 
-  <div class="travel-globe">
-    <canvas id="travel-globe-canvas" aria-label="Interactive Travel Globe"></canvas>
+  <div class="travel-globe" style="width: 100%; max-width: 500px; margin: 0 auto; min-height: 300px; cursor: grab;">
+    <canvas id="travel-globe-canvas" style="width: 100%; height: auto; aspect-ratio: 1/1; display: block;"></canvas>
   </div>
 </div>
 
 <style>
-  .travel-widget { max-width: 980px; margin: 0 auto; }
-  .travel-header { display:flex; gap:16px; align-items:flex-start; justify-content:space-between; margin-bottom: 20px; }
-  .travel-title { margin: 0; font-size: 1.5rem; font-weight: 700; }
-  .travel-subtitle { margin: 4px 0 0; opacity: .7; font-size: 0.95rem; }
-  .travel-legend { display:flex; gap:12px; flex-wrap:wrap; justify-content:flex-end; }
-  .legend-item { display:flex; gap:6px; align-items:center; font-size:.85rem; font-weight: 500; }
-  .legend-dot { width:10px; height:10px; border-radius:50%; display:inline-block; }
-  .travel-globe { width: min(550px, 100%); margin: 0 auto; cursor: grab; }
-  #travel-globe-canvas { width: 100%; height: auto; aspect-ratio: 1/1; display:block; }
+  .legend-item { display: flex; gap: 6px; align-items: center; font-weight: 500; }
+  .legend-dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
 </style>
 
 <script type="module" src="{{ '/assets/js/travel-globe.js' | relative_url }}"></script>
