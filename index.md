@@ -1,3 +1,9 @@
+---
+layout: single
+title: "About Me"
+permalink: /
+author_profile: true
+---
 
 ### **"Aerospace Engineer & Thermal Management Specialist with Academic Excellence"**
 
