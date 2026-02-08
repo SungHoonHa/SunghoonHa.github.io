@@ -1,4 +1,3 @@
-# About Me
 
 ### **"Aerospace Engineer & Thermal Management Specialist with Academic Excellence"**
 
