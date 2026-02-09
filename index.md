@@ -15,7 +15,7 @@ author_profile: true
   </div>
 
   <div class="profile-image-container">
-    <img src="/assets/images/Main_Phogo.jpg" alt="Sunghoon Ha Profile Picture" class="profile-img">
+    <img src="/assets/images/Main_Photo.jpg" alt="Sunghoon Ha Profile Picture" class="profile-img">
   </div>
 
 </div>
@@ -45,8 +45,35 @@ author_profile: true
 * **Smart Control Logic:** Developing advanced HVAC control algorithms that significantly reduce high-voltage battery drain while maintaining superior passenger cabin comfort.
 * **Autonomous Mobility (UNLV):** Gained hands-on experience in vehicle electrification and remote-link integration through international research collaboration at the **Drones and Autonomous Systems Lab (DASL)**, focusing on drive-by-wire system conversions.
 
----
 
 ---
 
-I am now preparing for the next chapter in my research career, aiming to leverage my industrial expertise and academic foundations to pioneer new frontiers in control systems during my graduate studies.
+<div class="future-vision-card" style="
+    margin-top: 60px;
+    padding: 40px;
+    background: linear-gradient(135deg, #001f3f 0%, #0052cc 100%);
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    box-shadow: 0 15px 35px rgba(0, 82, 204, 0.2);
+    position: relative;
+    overflow: hidden;
+">
+  <div style="position: absolute; top: -20%; right: -10%; font-size: 15rem; opacity: 0.1; transform: rotate(15deg); font-weight: bold;">🚀</div>
+  <h2 style="color: #ffffff; margin-top: 0; font-size: 1.8rem; letter-spacing: 1px;"><strong>Future Research Vision</strong></h2>
+  <p style="font-size: 1.25rem; line-height: 1.8; max-width: 800px; margin: 20px auto; font-weight: 300; color: #e0eaff;">
+    "I am now preparing for the next chapter in my research career, aiming to leverage my <strong>industrial expertise</strong> and <strong>academic foundations</strong> to pioneer new frontiers in <strong>control systems</strong> during my graduate studies."
+  </p>
+  <div style="margin-top: 30px;">
+    <span style="padding: 10px 25px; border: 1px solid rgba(255,255,255,0.4); border-radius: 50px; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 2px;">Next Chapter: PhD Research</span>
+  </div>
+</div>
+
+<style>
+  @media (max-width: 768px) {
+    .profile-section-wrapper { flex-direction: column-reverse; gap: 20px; }
+    .profile-image-container { flex: 0 0 auto; width: 100%; max-width: 300px; margin: 0 auto; }
+    .future-vision-card { padding: 30px 20px; margin-top: 40px; }
+    .future-vision-card p { font-size: 1.1rem; }
+  }
+</style>
