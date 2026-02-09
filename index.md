@@ -5,10 +5,20 @@ permalink: /
 author_profile: true
 ---
 
-### **"Aerospace Engineer & Thermal Management Specialist with Academic Excellence"**
+<div class="profile-section-wrapper">
+  
+  <div class="profile-text-content">
+    <h3 style="margin-top: 0;"><strong>"Aerospace Engineer & Thermal Management Specialist with Academic Excellence"</strong></h3>
+    <p>
+      I am a <strong>Thermal Management System Engineer</strong> at <strong>Hyundai WIA</strong>, dedicated to innovating high-efficiency HVAC systems for next-generation electric vehicles (EVs). Combining a rigorous foundation in <strong>Aerospace Engineering</strong> with specialized industrial expertise, I focus on solving complex energy and mobility challenges through advanced system design and optimization.
+    </p>
+  </div>
 
-I am a **Thermal Management System Engineer** at **Hyundai WIA**, dedicated to innovating EV HVAC systems. With a background in **Aerospace Engineering** and a record of **top-tier academic performance**, I combine theoretical depth with high-impact industrial experience to solve complex energy challenges.
+  <div class="profile-image-container">
+    <img src="/assets/images/Main_Phogo.jpg" alt="Sunghoon Ha Profile Picture" class="profile-img">
+  </div>
 
+</div>
 ---
 
 ## Academic & Professional Excellence
