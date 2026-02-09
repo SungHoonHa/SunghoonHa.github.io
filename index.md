@@ -11,27 +11,32 @@ I am a **Thermal Management System Engineer** at **Hyundai WIA**, dedicated to i
 
 ---
 
-## 🏆 Academic & Professional Excellence
+## Academic & Professional Excellence
 
-* **Department Valedictorian (Class Representative):** Ranked at the top of the Department of Aerospace Engineering at Korea Aerospace University.
-* **GPA 3.65 / 4.5 (Honor Graduate):** Maintained exceptional academic standing while participating in high-level research projects.
-* **Lead Inventor on 7+ Patents:** Driving innovation in EV thermal management through advanced HVAC control logic and system design.
-* **Global Technical Presenter:** Represented the company at **GM Tech Day in Detroit**, proving technical communication skills on an international stage.
+* **Hanjin Group Academic Excellence Scholarship (Spring 2022):** Formally recognized as the top-ranked student (**Ranked 1st**) in the Department of Aerospace Engineering at Korea Aerospace University in 2022 for outstanding academic performance.
+* **GPA 3.65 / 4.0 (Cum Laude):** Maintained an exceptional academic record while successfully managing multiple high-fidelity research projects and industrial collaborations.
+* **Lead Inventor on 7+ Patents (Actively Expanding):** Continuously driving innovation in EV thermal management at Hyundai WIA; actively developing and filing new intellectual properties for next-generation HVAC control logic and mechanical architectures.
+* **Global Technical Presenter:** Represented Hyundai WIA at the **GM Tech Day in Detroit**, demonstrating high-level technical communication skills by presenting future thermal system roadmaps to global leadership.
 
 ---
 
-## 🎓 Education
+## Education
+
 * **B.S. in Aerospace Engineering** | Korea Aerospace University
-    * **Honors:** Honor Graduate (Valedictorian), Excellence Prize in Capstone Design Competition.
-    * **Core Research:** Design and Testing of Reusable Launch Vehicle Prototype.
+    * **Honors & Awards:** Graduated with honors; awarded the **Excellence Prize** in Capstone Design for developing and testing a **Reusable Launch Vehicle Prototype**.
+    * **Academic Leadership:** Served as a **Global Student Mentor**, facilitating the successful academic transition of international students by providing one-on-one tutoring in **Engineering Mathematics** and core engineering fundamentals.
 
 ---
 
-## 🛠️ Research & Industry Focus
-* **EV Thermal Management:** Advanced cooling/heating loop optimization for integrated platforms.
-* **Aerospace Reliability:** Applying aerospace-grade failure analysis to automotive systems.
-* **Smart Control Systems:** High-efficiency HVAC logic using predictive algorithms.
+## Research & Industry Focus
+
+* **EV Thermal Management:** Spearheading the design and optimization of high-efficiency cooling and heating loops for integrated EV platforms, with a focus on maximizing system energy recovery and thermal stability.
+* **Systems Reliability & Safety:** Integrating failure mode and effects analysis (FMEA) into automotive thermal systems to enhance reliability and operational safety across diverse and extreme environments.
+* **Smart Control Logic:** Developing advanced HVAC control algorithms that significantly reduce high-voltage battery drain while maintaining superior passenger cabin comfort.
+* **Autonomous Mobility (UNLV):** Gained hands-on experience in vehicle electrification and remote-link integration through international research collaboration at the **Drones and Autonomous Systems Lab (DASL)**, focusing on drive-by-wire system conversions.
 
 ---
 
-I am now preparing for the next chapter in my research career, aiming to leverage my industrial expertise and academic foundations to pioneer new frontiers in [Your Field] during my graduate studies.
+---
+
+I am now preparing for the next chapter in my research career, aiming to leverage my industrial expertise and academic foundations to pioneer new frontiers in control systems during my graduate studies.
