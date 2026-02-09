@@ -12,13 +12,25 @@ author_profile: true
 ### **Hyundai WIA** | *Senior Research Engineer*
 **Vehicle HVAC Design Team** | *Gyeonggi-do, South Korea* | *Jan 2024 – Present*
 
-As a lead mechanical design engineer, I specialize in the development of high-efficiency HVAC modules for next-generation electric vehicle (EV) platforms, bridging the gap between innovative concept design and mass production.
+s a core member of the Thermal Management System (TMS) division, I lead the end-to-end development and mass production maturation of high-efficiency HVAC modules for next-generation EV platforms.
 
-* **Kia PV5 PBV Project:** Spearheaded the mechanical design and development of HVAC modules for Kia’s first dedicated PBV (Platform Beyond Vehicle) model.
-* **System Optimization:** Engineered internal cam-trajectories and reinforcement layouts to enhance structural durability and door sealing performance.
-* **Thermal & NVH Performance:** Improved thermal efficiency and suppressed abnormal noises (whistle/booming) by refining door geometries and applying advanced dual-injection materials.
-* **Smart-Intake System:** Developed a control system that improves the linearity of fresh/recirculation air intake and prevents ram-air intrusion during high-speed driving.
-* **Global Technical Leadership:** Represented the team at the **GM TECH DAY Seminar** in Detroit (Oct 2025), presenting next-generation HVAC concepts to global engineering leadership.
+* **Full-Cycle Product Ownership (PV5 & PV7):**
+    * Managing the entire lifecycle of HVAC systems for Kia’s dedicated PBV (PV5) and upcoming PV7 platforms, from initial CAD packaging to final mass production.
+    * Spearheaded cross-functional coordination between Procurement, Quality, and Production teams to ensure zero-defect manufacturing launches.
+
+* **Design Methodology & Reliability Leadership:**
+    * Standardized the application of **FMEA** and **DFSS** within the team to identify potential failure modes early and optimize structural locking mechanisms.
+    * Established new internal design standards by benchmarking global competitors and integrating field-test data into the HVAC development roadmap.
+
+* **Global Technical Representation:**
+    * Selected as a technical spokesperson to present Hyundai WIA's next-generation HVAC vision and TMS business strategies at **GM Tech Day in Detroit**.
+
+* **Innovation & IP Strategy:**
+    * Continuously contributing to the company's intellectual property portfolio with **7+ patents** filed/pending, focused on smart-intake logic and energy-efficient thermal architectures.
+    * Actively proposing future mobility concepts through consistent participation in internal innovation forums and idea competitions.
+
+* **Customer & Team Excellence:**
+    * Awarded **2nd Place in Team Customer Satisfaction** (HMG) for exceptional responsiveness and technical management of client requirements, proving strong professional soft skills and reliability.
 
 ---
 
