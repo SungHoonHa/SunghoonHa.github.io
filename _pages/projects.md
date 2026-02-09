@@ -14,18 +14,17 @@ This section highlights my core engineering projects, demonstrating my ability t
 
 At Hyundai WIA, I have led the development of advanced thermal management systems across three major global platforms, bridging the gap between virtual design and mass production reality.
 
-#### **a. Kia PV5 (Dedicated PBV CargoVan): Mass Production Maturation**
+<div style="display: flex; align-items: center; gap: 15px; margin-top: 30px; margin-bottom: 20px;">
+  <img src="/assets/images/PV5.png" alt="Kia PV5 Vehicle" style="height: 60px; width: auto; border-radius: 8px;">
+  <h4 style="margin: 0;">a. Kia PV5 (Dedicated PBV CargoVan): Mass Production Maturation</h4>
+</div>
 *Focus: Field Engineering, Supplier Quality, and System Validation*
 
-* **🏆 Global Recognition (2026 IVOTY Winner):** Contributed to the successful development of the PV5 platform, which made history as the first Korean vehicle to win the **"2026 International Van of the Year (IVOTY)"** with a unanimous vote. This award recognizes the PV5's excellence in modular design and electric platform innovation. [[Official News]](https://www.kia.com/ie/about-kia/news-and-events/kia-pv5-wins-international-van-of-the-year/)
+* **🏆 Global Recognition (2026 IVOTY Winner):** Contributed to the successful development of the PV5 platform, which made history as the first Korean vehicle to win the **"2026 International Van of the Year (IVOTY)"** with a unanimous vote. [[Official News]](https://www.kia.com/ie/about-kia/news-and-events/kia-pv5-wins-international-van-of-the-year/)
 * **Manufacturing Maturation:** Spearheaded the transition to mass production by managing supplier-side mold structures and refining injection-molded part dimensions for zero-defect assembly.
 * **Cross-functional Coordination:** Coordinated technical requirements between Procurement, Quality, and Production teams to resolve manufacturing bottlenecks.
 * **Field Validation:** Conducted extensive real-car evaluations to suppress NVH (Whistle/Booming noise) and optimize thermal distribution for the commercial vehicle segment.
 * **Benchmarking:** Analyzed competitor HVAC architectures to implement performance-enhancing features, achieving top-tier efficiency for the PV5 platform.
-
-
-
-[Image of an automotive HVAC system diagram]
 
 
 #### **b. PV7 Platform: Advanced Reliability & Kinematic Design**
