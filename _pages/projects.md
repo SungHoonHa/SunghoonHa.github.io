@@ -71,6 +71,14 @@ This project focused on the design and flight validation of a **$6$-DOF reusable
     * Managed **tethered and free-flight evaluations** to validate control laws. 
     * Identified discrepancies between HILS predictions and real-world dynamics, iteratively tuning the system to mitigate the effects of mechanical vibrations and signal noise.
 
+<div style="margin-top: 30px; margin-bottom: 30px; text-align: center;">
+  <video width="100%" height="auto" controls style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+    <source src="/assets/images/VFCV_Flight.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <p style="font-style: italic; color: #666; margin-top: 10px;">VFCV Autonomous Flight & Vertical Stabilization Test</p>
+</div>
+
 ---
 
 ## 🤖 2. Avatar-Kairos Project: Remote-Controlled Vehicle Conversion
