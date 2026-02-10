@@ -48,7 +48,7 @@ At Hyundai WIA, I have led the development of advanced thermal management system
 
 <div style="display: flex; align-items: center; gap: 15px; margin-top: 30px; margin-bottom: 20px;">
   <img src="/assets/images/VFCV_1.jpg" alt="VFCV Prototype" style="height: 70px; width: auto; border-radius: 8px; object-fit: cover;">
-  <h2 style="margin: 0;">🚀 2. Vertical Flight Controllable Vehicle (VFCV): Reusable Launch Vehicle</h2>
+  <h2 style="margin: 0;"> 2. Vertical Flight Controllable Vehicle (VFCV): Reusable Launch Vehicle</h2>
 </div>
 **Embedded Systems & Integration Lead | Korea Aerospace University | 2023**
 
@@ -81,18 +81,38 @@ This project focused on the design and flight validation of a **$6$-DOF reusable
 
 ---
 
-## 🤖 2. Avatar-Kairos Project: Remote-Controlled Vehicle Conversion
-**Research Internship | University of Nevada, Las Vegas (UNLV) | 2023**
+<div style="display: flex; align-items: center; gap: 15px; margin-top: 30px; margin-bottom: 20px;">
+  <img src="/assets/images/Uomo.png" alt="UNLV DASL Project" style="height: 70px; width: auto; border-radius: 8px; object-fit: cover;">
+  <h2 style="margin: 0;"> 3. Avatar-Kairos: Autonomous Vehicle Conversion</h2>
+</div>
 
-Collaborated with the Drones and Autonomous Systems Lab (DASL) to convert a standard, inoperable electric vehicle into a fully functional, remote-controlled research platform.
+**Research Intern | UNLV (Design and Intelligent Systems Lab) | 2023**
 
-* **Role:** Mechanical & Systems Research Intern
-* **Tech Stack:** CNC Machining, UOMO Control Units, Power System Engineering
-* **Core Tasks:** Vehicle electrification, remote-link integration, and custom part manufacturing.
+Collaborated within an international research team to convert a legacy electric vehicle into an autonomous research platform. I focused on the electromechanical restoration and the fabrication of custom hardware components for system integration.
 
-#### **Technical Deep-dive:**
-* **Hardware Transformation:** Successfully transformed an inoperable electric golf cart into a drive-by-wire system. This involved designing and manufacturing custom mounting brackets and mechanical linkages using **CNC mills**.
-* **System Debugging (UOMO/Shepherd):** Integrated Kairos Autonomi’s **UOMO control units** for remote steering and acceleration. I resolved critical signal-blinking issues in the Shepherd interface by identifying and fixing wiring disturbances after component reassembly.
-* **Power System Recovery:** Diagnosed a complete battery failure in the vehicle's powertrain; successfully restored system functionality by precisely re-balancing the electrolyte levels with distilled water, saving the project significant hardware costs.
+#### **Technical Contributions:**
 
+* **Electrification & System Restoration:**
+    * Restored a non-functional electric powertrain and integrated **UOMO control units** to enable electronic control over steering and acceleration.
+    * Managed the integration of control signals between the central processing unit and actuators, ensuring reliable system response during manual and autonomous operation modes.
+* **Precision Machining & Prototyping:**
+    * Manufactured custom mounting brackets and housings for **GPS units** and core electronics using **CNC machining** and manual lathes.
+    * Focused on structural alignment and secure hardware mounting to ensure sensor stability during outdoor field evaluations.
+* **Signal Integrity & Troubleshooting:**
+    * Diagnosed and resolved intermittent **signal interference** between the central controller and actuators identified during initial field tests.
+    * Refined the wiring architecture and grounding strategy to ensure consistent data transmission and prevent system resets.
+* **Technical Communication & Collaboration:**
+    * Documented hardware integration protocols and troubleshooting steps in a professional English-speaking environment, coordinating with the team to maintain the project timeline.
+
+**🔗 Project Resources:** [Kairos Technical Tutorials & Wiki](https://www.daslhub.org/unlv/wiki/doku.php?id=kairos_tutorials)
+
+<div style="text-align: center; margin: 30px 0;">
+  <iframe width="100%" height="450" src="https://www.youtube.com/embed/dVrltavVMBk&t=42s" 
+    title="YouTube video player" frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+  </iframe>
+  <p style="font-style: italic; color: #666; margin-top: 10px;">Uomo Driving.</p>
+</div>
+      
 ---
