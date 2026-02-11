@@ -46,13 +46,11 @@ At Hyundai WIA, I have led the development of advanced thermal management system
 
 * **Global Technical Representation (GM Tech Day):** Selected as a lead technical spokesperson to represent Hyundai WIA at **GM Tech Day in Detroit**. I presented next-generation HVAC roadmaps and TMS business strategies to GM’s global engineering and procurement leadership.
 * **Intellectual Property (IP) Portfolio:** Leading the company’s technical innovation by authoring **7+ patents** (filed/pending) focused on high-efficiency control logic and energy-efficient thermal architectures.
-* **Standardization of Design Protocols:** Refined and established new internal design standards by synthesizing technical requirements from various global and domestic project cycles.
 * **Award for Professional Excellence:** Awarded **2nd Place in Team Customer Satisfaction** (HMG) for excellence in managing technical requirements and fostering strong relationships with major stakeholders.
 
 ---
 
 <div style="display: flex; align-items: center; gap: 15px; margin-top: 30px; margin-bottom: 20px;">
-  <img src="/assets/images/VFCV_1.jpg" alt="VFCV Prototype" style="height: 70px; width: auto; border-radius: 8px; object-fit: cover;">
   <h2 style="margin: 0;"> 2. Vertical Flight Controllable Vehicle (VFCV): Reusable Launch Vehicle</h2>
 </div>
 **Embedded Systems & Integration Lead | Korea Aerospace University | 2023**
@@ -76,12 +74,22 @@ This project focused on the design and flight validation of a **$6$-DOF reusable
     * Managed **tethered and free-flight evaluations** to validate control laws. 
     * Identified discrepancies between HILS predictions and real-world dynamics, iteratively tuning the system to mitigate the effects of mechanical vibrations and signal noise.
 
-<div style="margin-top: 30px; margin-bottom: 30px; text-align: center;">
-  <video width="100%" height="auto" controls style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-    <source src="/assets/images/VFCV_Flight.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <p style="font-style: italic; color: #666; margin-top: 10px;">VFCV Autonomous Flight & Vertical Stabilization Test</p>
+<div class="media-container" style="display: flex; gap: 20px; align-items: center; margin: 30px 0;">
+  
+  <div style="flex: 1;">
+    <img src="/assets/images/VFCV_1.jpg" alt="VFCV Prototype" 
+         style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+    <p style="text-align: center; font-style: italic; color: #666; margin-top: 10px;">VFCV Prototype Assembly</p>
+  </div>
+
+  <div style="flex: 1;">
+    <video width="100%" height="auto" controls style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+      <source src="/assets/videos/VFCV_Flight.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <p style="text-align: center; font-style: italic; color: #666; margin-top: 10px;">Autonomous Flight Test</p>
+  </div>
+
 </div>
 
 ---
