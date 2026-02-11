@@ -94,11 +94,6 @@ This project focused on the design and flight validation of a **6-DOF reusable r
 
 ---
 
-<div style="display: flex; align-items: center; gap: 15px; margin-top: 30px; margin-bottom: 20px;">
-  <img src="/assets/images/Uomo.png" alt="UNLV DASL Project" style="height: 70px; width: auto; border-radius: 8px; object-fit: cover;">
-  <h2 style="margin: 0;"> 3. Avatar-Kairos: Autonomous Vehicle Conversion</h2>
-</div>
-
 **Research Intern | UNLV (Design and Intelligent Systems Lab) | 2023**
 
 Collaborated within an international research team to convert a legacy electric vehicle into an autonomous research platform. I focused on the electromechanical restoration and the fabrication of custom hardware components for system integration.
@@ -119,13 +114,22 @@ Collaborated within an international research team to convert a legacy electric 
 
 **🔗 Project Resources:** [Kairos Technical Tutorials & Wiki](https://www.daslhub.org/unlv/wiki/doku.php?id=kairos_tutorials)
 
-<div style="text-align: center; margin: 30px 0;">
-  <iframe width="100%" height="450" src="https://www.youtube.com/embed/dVrltavVMBk&t=42s" 
-    title="YouTube video player" frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-  </iframe>
-  <p style="font-style: italic; color: #666; margin-top: 10px;">Uomo Driving.</p>
+<div class="media-container" style="display: flex; gap: 20px; align-items: center; margin: 30px 0;">
+  
+  <div style="flex: 1;">
+    <img src="/assets/images/Uomo.png" alt="UNLV System Integration" 
+         style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+    <p style="text-align: center; font-style: italic; color: #666; margin-top: 10px;">UOMO Unit</p>
+  </div>
+
+  <div style="flex: 1;">
+    <video width="100%" height="auto" controls style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+      <source src="/assets/videos/Uomo test.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <p style="text-align: center; font-style: italic; color: #666; margin-top: 10px;">Autonomous Driving Test Video</p>
+  </div>
+
 </div>
       
 ---
