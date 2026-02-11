@@ -41,7 +41,7 @@ At Hyundai WIA, I have led the development of advanced thermal management system
   <p style="font-style: italic; color: #666; margin-top: 10px;">Kia PV7 (In development)</p>
 </div>
 
-#### **c. Strategic R&D Leadership & Global Representation**
+#### **c. Key Achievements & Professional Engagement**
 *Focus: Global Partnerships, IP Strategy, and Customer Excellence*
 
 * **Global Technical Representation (GM Tech Day):** Selected as a lead technical spokesperson to represent Hyundai WIA at **GM Tech Day in Detroit**. I presented next-generation HVAC roadmaps and TMS business strategies to GM’s global engineering and procurement leadership.
@@ -55,7 +55,7 @@ At Hyundai WIA, I have led the development of advanced thermal management system
 </div>
 **Embedded Systems & Integration Lead | Korea Aerospace University | 2023**
 
-This project focused on the design and flight validation of a **$6$-DOF reusable rocket prototype** for autonomous VTOL. As the Integration Lead, I managed the **hardware implementation of control algorithms**, troubleshooting systemic failures and optimizing real-time performance.
+This project focused on the design and flight validation of a **6-DOF reusable rocket prototype** for autonomous VTOL. As the Integration Lead, I managed the **hardware implementation of control algorithms**, troubleshooting systemic failures and optimizing real-time performance.
 
 * **Award:** **Excellence Prize** at the KAU Capstone Competition.
 
@@ -79,7 +79,7 @@ This project focused on the design and flight validation of a **$6$-DOF reusable
   <div style="flex: 1;">
     <img src="/assets/images/VFCV_1.jpg" alt="VFCV Prototype" 
          style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-    <p style="text-align: center; font-style: italic; color: #666; margin-top: 10px;">VFCV Prototype Assembly</p>
+    <p style="text-align: center; font-style: italic; color: #666; margin-top: 10px;">VFCV Mk.2</p>
   </div>
 
   <div style="flex: 1;">
@@ -87,7 +87,7 @@ This project focused on the design and flight validation of a **$6$-DOF reusable
       <source src="/assets/videos/VFCV_Flight.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <p style="text-align: center; font-style: italic; color: #666; margin-top: 10px;">Autonomous Flight Test</p>
+    <p style="text-align: center; font-style: italic; color: #666; margin-top: 10px;">VFCV Mk.1 Autonomous Flight Test</p>
   </div>
 
 </div>
