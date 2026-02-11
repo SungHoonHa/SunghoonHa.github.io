@@ -6,9 +6,10 @@ author_profile: true
 ---
 
 <div style="display: flex; align-items: center; gap: 15px; border-bottom: 2px solid #ececec; padding-bottom: 10px; margin-bottom: 30px; margin-top: 30px;">
-  <h2 style="margin: 0; border-bottom: none;"> Industrial Experience</h2>
-  <img src="/assets/images/hyundai-wia-seeklogo.png" alt="Hyundai WIA Logo" style="height: 35px; width: auto;">
+    <img src="/assets/images/hyundai-wia-seeklogo.png" alt="Hyundai WIA Logo" style="height: 35px; width: auto;">
 </div>
+  <h2 style="margin: 0; border-bottom: none;"> Industrial Experience</h2>
+  
 ### **Hyundai WIA** | *Senior Research Engineer*
 **Vehicle HVAC Design Team** | *Gyeonggi-do, South Korea* | *Jan 2024 – Present*
 
@@ -35,10 +36,10 @@ s a core member of the Thermal Management System (TMS) division, I lead the end-
 ---
 
 <div style="display: flex; align-items: center; gap: 15px; border-bottom: 2px solid #ececec; padding-bottom: 10px; margin-bottom: 30px; margin-top: 50px;">
-  <h2 style="margin: 0; border-bottom: none;"> Global & Research Experience</h2>
-  <div style="display: flex; align-items: center; gap: 10px;">
     <img src="/assets/images/UNLV-LOGO.png" alt="UNLV Logo" style="height: 25px; width: auto;">
     <img src="/assets/images/DASL_LOGO.jpg" alt="DASL Logo" style="height: 35px; width: auto; border-radius: 4px;">
+  <h2 style="margin: 0; border-bottom: none;"> Global & Research Experience</h2>
+  <div style="display: flex; align-items: center; gap: 10px;">
   </div>
 </div>
 ### **University of Nevada, Las Vegas (UNLV)** | *Visiting Student / Intern*
@@ -52,8 +53,8 @@ Engaged in a global exchange program focusing on international research standard
 ---
 
 <div style="display: flex; align-items: center; gap: 15px; border-bottom: 2px solid #ececec; padding-bottom: 10px; margin-bottom: 30px; margin-top: 50px;">
-  <h2 style="margin: 0; border-bottom: none;"> Military Field Experience</h2>
   <img src="/assets/images/Mark.png" alt="Military Mark" style="height: 60px; width: auto;">
+  <h2 style="margin: 0; border-bottom: none;"> Military Field Experience</h2>
 </div>
 ### **Republic of Korea Army (ROKA), Army Aviation School** | *KUH-1 Surion Helicopter Crew*
 **Aviation Operations Command** | *South Korea* | *Aug 2018 – Apr 2020*
