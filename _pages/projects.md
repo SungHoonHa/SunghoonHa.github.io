@@ -73,13 +73,11 @@ This project focused on the design and flight validation of a **6-DOF reusable r
     * Identified discrepancies between HILS predictions and real-world dynamics, iteratively tuning the system to mitigate the effects of mechanical vibrations and signal noise.
 
 <div class="media-container" style="display: flex; gap: 20px; align-items: center; margin: 30px 0;">
-  
   <div style="flex: 1;">
     <img src="/assets/images/VFCV_1.jpg" alt="VFCV Prototype" 
          style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
     <p style="text-align: center; font-style: italic; color: #666; margin-top: 10px;">VFCV Mk.2</p>
   </div>
-
   <div style="flex: 1;">
     <video width="100%" height="auto" controls style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
       <source src="/assets/videos/VFCV_Flight.mp4" type="video/mp4">
@@ -87,7 +85,6 @@ This project focused on the design and flight validation of a **6-DOF reusable r
     </video>
     <p style="text-align: center; font-style: italic; color: #666; margin-top: 10px;">VFCV Mk.1 Autonomous Flight Test</p>
   </div>
-
 </div>
 
 ---
@@ -114,13 +111,11 @@ Collaborated within an international research team to convert a legacy electric 
 **🔗 Project Resources:** [Kairos Technical Tutorials & Wiki](https://www.daslhub.org/unlv/wiki/doku.php?id=kairos_tutorials)
 
 <div class="media-container" style="display: flex; gap: 20px; align-items: center; margin: 30px 0;">
-  
   <div style="flex: 1;">
     <img src="/assets/images/Uomo.png" alt="UNLV System Integration" 
          style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
     <p style="text-align: center; font-style: italic; color: #666; margin-top: 10px;">UOMO Unit</p>
   </div>
-
   <div style="flex: 1;">
     <video width="100%" height="auto" controls style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
       <source src="/assets/videos/Uomo test.mp4" type="video/mp4">
@@ -128,5 +123,4 @@ Collaborated within an international research team to convert a legacy electric 
     </video>
     <p style="text-align: center; font-style: italic; color: #666; margin-top: 10px;">Autonomous Driving Test Video</p>
   </div>
-
 </div>
