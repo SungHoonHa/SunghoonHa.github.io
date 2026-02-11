@@ -12,8 +12,8 @@ When I am not in the lab or the field, I focus on maintaining a healthy work-lif
 * **Tennis & Badminton:** I am an active player of both sports. Engaging in high-intensity sports helps me maintain focus and resilience, which are essential when tackling complex research challenges.
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 30px;">
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/10125647373875214791" 
-       alt="Tennis and Badminton Rackets" 
+  <img src="https://images.unsplash.com/photo-1617083934555-ac7d4fee8909?q=80&w=1000&auto=format&fit=crop" 
+       alt="Tennis and Racquet Sports" 
        style="width: 100%; max-width: 500px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
   <p style="font-style: italic; color: #666; margin-top: 10px;">Finding balance through racquet sports.</p>
 </div>
