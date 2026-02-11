@@ -7,7 +7,7 @@ author_profile: true
 <h1 style="text-align: center; font-size: 2.5em; margin-bottom: 0.3em;">Military Service</h1>
 
 <h3 style="text-align: center; font-size: 1.3em; white-space: nowrap; color: #333;">
-  🚁 KUH-1 Surion Crew Member (Aug 2018 ~ Apr 2020)
+  KUH-1 Surion Crew Member (Aug 2018 ~ Apr 2020)
 </h3>
 
 <p style="text-align: center; margin-top: -10px;">
@@ -19,10 +19,6 @@ author_profile: true
   <div style="text-align: center;">
     <img src="/assets/images/surion.png" alt="KUH-1 Surion Helicopter" style="width: 400px; height: auto; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <p style="font-size: 0.85em; color: #666; margin-top: 0.5em;">The KUH-1 Surion helicopter.</p>
-  </div>
-
-  <div>
-    <img src="/assets/images/Mark.png" alt="Army Aviation School Mark" style="width: 150px; height: auto;">
   </div>
 
 </div>
