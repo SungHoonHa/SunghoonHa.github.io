@@ -7,8 +7,8 @@ author_profile: true
 
 <div style="display: flex; align-items: center; gap: 15px; border-bottom: 2px solid #ececec; padding-bottom: 10px; margin-bottom: 30px; margin-top: 30px;">
     <img src="/assets/images/hyundai-wia-seeklogo.png" alt="Hyundai WIA Logo" style="height: 35px; width: auto;">
-</div>
   <h2 style="margin: 0; border-bottom: none;"> Industrial Experience</h2>
+  </div>
   
 ### **Hyundai WIA** | *Senior Research Engineer*
 **Vehicle HVAC Design Team** | *Gyeonggi-do, South Korea* | *Jan 2024 – Present*
