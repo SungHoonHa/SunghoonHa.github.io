@@ -50,16 +50,14 @@ At Hyundai WIA, I have led the development of advanced thermal management system
 
 ---
 
-<div style="display: flex; align-items: center; gap: 15px; margin-top: 30px; margin-bottom: 20px;">
-  <h2 style="margin: 0;"> 2. Vertical Flight Controllable Vehicle (VFCV): Reusable Launch Vehicle</h2>
-</div>
+## 2. Vertical Flight Controllable Vehicle (VFCV): Reusable Launch Vehicle
 **Embedded Systems & Integration Lead | Korea Aerospace University | 2023**
 
 This project focused on the design and flight validation of a **6-DOF reusable rocket prototype** for autonomous VTOL. As the Integration Lead, I managed the **hardware implementation of control algorithms**, troubleshooting systemic failures and optimizing real-time performance.
 
 * **Award:** **Excellence Prize** at the KAU Capstone Competition.
 
-#### **Technical Contributions:**
+#### **VFCV Technical Contributions:**
 
 * **Attitude Control Optimization (Quaternion Conversion):**
     * Eliminated **Gimbal Lock** by refactoring the attitude estimation and control loop into **Quaternion-based mathematics**.
@@ -93,14 +91,13 @@ This project focused on the design and flight validation of a **6-DOF reusable r
 </div>
 
 ---
-<div style="display: flex; align-items: center; gap: 15px; margin-top: 30px; margin-bottom: 20px;">
-  <h2 style="margin: 0;">3. Avatar-Kairos: Autonomous Vehicle Conversion</h2>
-</div>
+
+## 3. Avatar-Kairos: Autonomous Vehicle Conversion
 **Research Intern | UNLV (Design and Intelligent Systems Lab) | Aug 2021 ~ Jan 2022**
 
 Collaborated within an international research team to convert a legacy electric vehicle into an autonomous research platform. I focused on the electromechanical restoration and the fabrication of custom hardware components for system integration.
 
-#### **Technical Contributions:**
+#### **UNLV Technical Contributions:**
 
 * **Electrification & System Restoration:**
     * Restored a non-functional electric powertrain and integrated **UOMO control units** to enable electronic control over steering and acceleration.
@@ -133,5 +130,3 @@ Collaborated within an international research team to convert a legacy electric 
   </div>
 
 </div>
-      
----
