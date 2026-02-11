@@ -5,17 +5,25 @@ permalink: /life/
 author_profile: true
 ---
 
-I find that personal growth often happens outside the comfort zone. Exploring diverse cultures and navigating unfamiliar environments has significantly enhanced my **adaptability** and **global perspective**—traits that I bring to every research collaboration.
+## 🏃 Beyond Engineering
+When I am not in the lab or the field, I focus on maintaining a healthy work-life balance through physical activity and global exploration. These experiences provide the physical stamina and mental adaptability required for long-term engineering projects.
 
-### 🌍 Travel Map
+### **Sports**
+* **Tennis & Badminton:** I am an active player of both sports. Engaging in high-intensity sports helps me maintain focus and resilience, which are essential when tackling complex research challenges.
+
+<div style="text-align: center; margin-top: 20px; margin-bottom: 30px;">
+  <img src="http://googleusercontent.com/image_collection/image_retrieval/10125647373875214791" 
+       alt="Tennis and Badminton Rackets" 
+       style="width: 100%; max-width: 500px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+  <p style="font-style: italic; color: #666; margin-top: 10px;">Finding balance through racquet sports.</p>
+</div>
+
+### **Travel & Global Exploration**
+I find that personal growth often happens outside the comfort zone. Navigating unfamiliar environments and diverse cultures has significantly enhanced my **adaptability** and **global perspective**—traits that I bring to every international research collaboration.
+
+#### **Travel Map**
 Below is a visualization of the countries and cities I have had the privilege to visit. Each pin represents a unique experience that has shaped my worldview.
 
 {% include travel-globe.html %}
 
 ---
-
-### 🎾 Beyond Engineering
-When I am not in the lab or the field, I focus on maintaining a healthy work-life balance through physical activity and creative exploration:
-
-* **Sports:** I am an active **Tennis** and **Badminton** player. These sports help me maintain the physical stamina and mental focus required for long-term research projects.
-* **Cinematography:** I find creative inspiration in film. Analyzing visual storytelling allows me to approach complex engineering problems with a fresh, creative perspective.
