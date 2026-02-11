@@ -6,7 +6,7 @@ author_profile: true
 toc: true
 ---
 
-This section highlights my core engineering projects, demonstrating my ability to bridge theoretical modeling with high-fidelity hardware implementation.
+This section highlights my core engineering projects.
 
 ---
 ## 1. Next-Generation EV HVAC Systems & Thermal Management
@@ -63,10 +63,10 @@ This project focused on the design and flight validation of a **6-DOF reusable r
 
 * **Attitude Control Optimization (Quaternion Conversion):**
     * Eliminated **Gimbal Lock** by refactoring the attitude estimation and control loop into **Quaternion-based mathematics**.
-    * This modification provided a singularity-free orientation representation, maintaining robust control even during high-maneuverability flight phases (e.g., $Pitch = \pm 90^\circ$).
+    * This modification provided a singularity-free orientation representation, maintaining robust control even during high-maneuverability flight phases (e.g., Pitch = ±90°).
 * **Embedded Software Deployment (C/C++):**
     * Migrated HIL-validated control algorithms to **Flight Control Computer (Raspberry Pi)**.
-    * Optimized the execution logic in **C/C++** to satisfy the high-frequency control loop constraints required for stable $6$-DOF dynamics.
+    * Optimized the execution logic in **C/C++** to satisfy the high-frequency control loop constraints required for stable 6-DOF dynamics.
 * **Power Distribution Network (PDN) & Hardware Reliability:**
     * Troubleshot and rectified critical **in-flight power resets** caused by voltage drops during high-current motor surges.
     * Re-engineered the battery power management and signal isolation architecture to maintain sensor data integrity and overall system reliability.
@@ -93,8 +93,10 @@ This project focused on the design and flight validation of a **6-DOF reusable r
 </div>
 
 ---
-
-**Research Intern | UNLV (Design and Intelligent Systems Lab) | 2023**
+<div style="display: flex; align-items: center; gap: 15px; margin-top: 30px; margin-bottom: 20px;">
+  <h2 style="margin: 0;">3. Avatar-Kairos: Autonomous Vehicle Conversion</h2>
+</div>
+**Research Intern | UNLV (Design and Intelligent Systems Lab) | Aug 2021 ~ Jan 2022**
 
 Collaborated within an international research team to convert a legacy electric vehicle into an autonomous research platform. I focused on the electromechanical restoration and the fabrication of custom hardware components for system integration.
 
