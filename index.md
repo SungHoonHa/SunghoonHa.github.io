@@ -33,7 +33,7 @@ author_profile: true
 
 ## Education
 
-* **B.S. in Aerospace Engineering** | Korea Aerospace University
+* **B.S. in Aerospace Engineering at Korea Aerospace University** 
 * **Honors & Awards:** Graduated with honors; awarded the **Excellence Prize** in Capstone Design for developing and testing a **Reusable Launch Vehicle Prototype**.
 * **Academic Leadership:** Served as a **Global Student Mentor**, facilitating the successful academic transition of international students by providing one-on-one tutoring in **Engineering Mathematics** and core engineering fundamentals.
 
