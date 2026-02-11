@@ -14,6 +14,7 @@ This section highlights my core engineering projects, demonstrating my ability t
 
 At Hyundai WIA, I have led the development of advanced thermal management systems, bridging the gap between virtual design and mass production reality.
 
+#### **a. Kia PV5 (Dedicated PBV CargoVan): Mass Production Maturation**
 *Focus: Field Engineering, Supplier Quality, and System Validation*
 
 * **Global Recognition (2026 IVOTY Winner):** Contributed to the successful development of the PV5 platform, which made history as the first Korean vehicle to win the **"2026 International Van of the Year (IVOTY)"** with a unanimous vote. [[Official News]](https://www.kia.com/ie/about-kia/news-and-events/kia-pv5-wins-international-van-of-the-year/)
@@ -22,9 +23,9 @@ At Hyundai WIA, I have led the development of advanced thermal management system
 * **Field Validation:** Conducted extensive real-car evaluations to suppress NVH (Whistle/Booming noise) and optimize thermal distribution for the commercial vehicle segment.
 * **Benchmarking:** Analyzed competitor HVAC architectures to implement performance-enhancing features, achieving top-tier efficiency for the PV5 platform.
 
-<div style="display: flex; align-items: center; gap: 15px; margin-top: 30px; margin-bottom: 20px;">
-  <img src="/assets/images/PV5.png" alt="Kia PV5 Vehicle" style="height: 200px; width: auto; border-radius: 8px;">
-  <h4 style="margin: 0;">a. Kia PV5 (Dedicated PBV CargoVan): Mass Production Maturation</h4>
+<div style="text-align: center; margin: 20px 0;">
+  <img src="/assets/images/PV5.png" alt="Kia PV5" style="width: 80%; max-width: 400px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+  <p style="font-style: italic; color: #666; margin-top: 10px;">Kia PV5 - 2026 International Van of the Year</p>
 </div>
 
 
@@ -35,7 +36,10 @@ At Hyundai WIA, I have led the development of advanced thermal management system
 * **CFD-to-Real-Car Correlation:** Identified and resolved discrepancies between CFD simulations and physical test data for foot-vent airflow, achieving high-fidelity performance correlation.
 * **3D Packaging:** Utilized **CATIA V5** to manage dense system packaging, preventing interference with surrounding cockpit and chassis components.
 
-
+<div style="text-align: center; margin: 20px 0;">
+  <img src="/assets/images/PV7.png" alt="Kia PV5" style="width: 80%; max-width: 400px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+  <p style="font-style: italic; color: #666; margin-top: 10px;">Kia PV7 (In development)</p>
+</div>
 
 #### **c. Strategic R&D Leadership & Global Representation**
 *Focus: Global Partnerships, IP Strategy, and Customer Excellence*
