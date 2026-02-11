@@ -5,17 +5,18 @@ permalink: /
 author_profile: true
 ---
 
-<div class="profile-section-wrapper">
+<div class="profile-section-wrapper" style="display: flex; align-items: center; gap: 30px; margin-top: 25px; margin-bottom: 40px;">
   
-  <div class="profile-text-content">
-    <h3 style="margin-top: 0;"><strong>"Aerospace Engineer & Thermal Management Specialist with Academic Excellence"</strong></h3>
-    <p>
+  <div class="profile-text-content" style="flex: 1;">
+    <p style="margin: 0; line-height: 1.6;">
       I am a <strong>Thermal Management System Engineer</strong> at <strong>Hyundai WIA</strong>, dedicated to innovating high-efficiency HVAC systems for next-generation electric vehicles (EVs). Combining a rigorous foundation in <strong>Aerospace Engineering</strong> with specialized industrial expertise, I focus on solving complex energy and mobility challenges through advanced system design and optimization.
     </p>
   </div>
 
-  <div class="profile-image-container">
-    <img src="/assets/images/Main_Photo.jpg" alt="Sunghoon Ha Profile Picture" class="profile-img">
+  <div class="profile-image-container" style="flex: 0 0 auto;">
+    <img src="/assets/images/Main_Photo.jpg" alt="Sunghoon Ha Profile Picture" 
+         class="profile-img" 
+         style="width: 220px; height: auto; border-radius: 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.1);">
   </div>
 
 </div>
@@ -33,8 +34,8 @@ author_profile: true
 ## Education
 
 * **B.S. in Aerospace Engineering** | Korea Aerospace University
-    * **Honors & Awards:** Graduated with honors; awarded the **Excellence Prize** in Capstone Design for developing and testing a **Reusable Launch Vehicle Prototype**.
-    * **Academic Leadership:** Served as a **Global Student Mentor**, facilitating the successful academic transition of international students by providing one-on-one tutoring in **Engineering Mathematics** and core engineering fundamentals.
+* **Honors & Awards:** Graduated with honors; awarded the **Excellence Prize** in Capstone Design for developing and testing a **Reusable Launch Vehicle Prototype**.
+* **Academic Leadership:** Served as a **Global Student Mentor**, facilitating the successful academic transition of international students by providing one-on-one tutoring in **Engineering Mathematics** and core engineering fundamentals.
 
 ---
 
