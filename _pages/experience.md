@@ -43,9 +43,9 @@ s a core member of the Thermal Management System (TMS) division, I lead the end-
   </div>
 </div>
 ### **University of Nevada, Las Vegas (UNLV)** | *Visiting Student / Intern*
-**Drones and Autonomous Systems Lab (DASL)** | *Las Vegas, NV, USA* | *Jan 2023 – Feb 2023*
+**Drones and Autonomous Systems Lab (DASL)** | *Las Vegas, NV, USA* | *Aug 2021 – Jan 2022*
 
-Engaged in a global exchange program focusing on international research standards and collaborative engineering environments.
+Engaged in a global exchange program focusing on robotics research project and collaborative engineering environments.
 
 * **Collaborative Research:** Explored advanced mechanical systems and engaged with diverse engineering teams to understand the U.S. academic and industrial landscape.
 * **Cultural Adaptation:** Navigated a new academic environment, significantly improving technical communication skills and global perspective.
