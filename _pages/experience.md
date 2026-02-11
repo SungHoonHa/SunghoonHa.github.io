@@ -64,9 +64,3 @@ Served as a crew member on Korea’s indigenous utility helicopter, gaining deep
 * **System Reliability:** Conducted pre-flight and in-flight inspections of complex avionic and mechanical systems.
 * **Operational Engineering:** Developed a profound understanding of system redundancy and failure mode effects through real-world aviation operations.
 * **Detailed Link:** For more information on my military service and aviation background, please visit the **[Military]({{ '/military/' | relative_url }})** page.
-
----
-
-### **🏆 Academic Recognition**
-* **Department Valedictorian:** Ranked at the top of the Department of Aerospace and Mechanical Engineering at Korea Aerospace University.
-* **Hanjin Group Academic Excellence Scholarship:** Awarded for maintaining superior academic standing throughout the undergraduate program.
