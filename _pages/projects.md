@@ -3,7 +3,7 @@ layout: single
 title: "Technical Projects"
 permalink: /projects/
 author_profile: true
-toc: true
+toc: false
 ---
 
 This section highlights my core engineering projects.
