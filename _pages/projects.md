@@ -80,7 +80,7 @@ This project focused on the design and flight validation of a **6-DOF reusable r
   </div>
   <div style="flex: 1;">
     <video width="100%" height="auto" controls style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-      <source src="/assets/image/VFCV_Flight.mp4" type="video/mp4">
+      <source src="/assets/images/VFCV_Flight.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <p style="text-align: center; font-style: italic; color: #666; margin-top: 10px;">VFCV Mk.1 Autonomous Flight Test</p>
@@ -118,7 +118,7 @@ Collaborated within an international research team to convert a legacy electric 
   </div>
   <div style="flex: 1;">
     <video width="100%" height="auto" controls style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-      <source src="/assets/image/Uomo test.mp4" type="video/mp4">
+      <source src="/assets/images/Uomo test.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <p style="text-align: center; font-style: italic; color: #666; margin-top: 10px;">Autonomous Driving Test Video</p>
