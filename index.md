@@ -5,7 +5,7 @@ title: "Mechanical Systems & Thermal Architect"
 tagline: "Synchronizing High-Fidelity Thermal Physics with Complex System Logic."
 ---
 
-# 🚀 Executive Summary: Sunghoon Ha
+# Executive Summary: Sunghoon Ha
 
 **Systems Engineer | Thermal Management (HVAC) | 7+ Patents Filed**
 
