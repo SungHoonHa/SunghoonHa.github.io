@@ -69,13 +69,13 @@ I focus on optimizing system-level efficiency through the synergy of physical pl
 
 ---
 
-### 🛠️ Core Competencies
+### 🛠️ Technical Skills & Expertise
 
-| Category | Technical Expertise |
-| :--- | :--- |
-| **Thermal & Fluid** | HVAC Architecture, TMS Control Logic, Heat Exchanger Optimization |
-| **Control & Logic** | 6-DOF Attitude Control, Quaternion Kinematics, Logic Deployment |
-| **Tools & Platforms** | C/C++, Python, Raspberry Pi, Signal Integrity, CNC Machining |
+* **Engineering Expertise:** HVAC Architecture & Logic Design, 6-DOF Attitude Control (Quaternion-based), Signal Integrity
+* **CAD/3D:** CATIA (Advanced), SolidWorks (Intermediate)
+* **Simulation:** MATLAB/Simulink (Advanced), ANSYS (Intermediate)
+* **Programming & Tools:** Python (Intermediate), C/C++ (Intermediate), Raspberry Pi, CNC Machining
+* **Languages & Tests:** Korean (Native), English (TOEFL 102; GRE Q168/V153/AWA 3.5)
 
 ---
 
