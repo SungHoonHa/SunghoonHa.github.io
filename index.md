@@ -6,12 +6,36 @@ tagline: "Synchronizing High-Fidelity Thermal Physics with Complex System Logic.
 ---
 
 # 🚀 Executive Summary: Sunghoon Ha
+
 **Systems Engineer | Thermal Management (HVAC) | 7+ Patents**
 
-I am a systems-oriented engineer specializing in the **integration of complex thermal architectures and autonomous control logic**. My expertise lies in translating high-level analytical models—such as **6-DOF attitude estimation**—into production-ready industrial solutions like **Next-Generation EV HVAC systems**. 
+I am a systems-oriented engineer specializing in the **integration of complex thermal architectures and autonomous control logic**. My expertise lies in translating high-level analytical models—such as **6-DOF attitude estimation**—into production-ready industrial solutions like **Next-Generation EV HVAC systems**.
 
 I focus on optimizing system efficiency through the synergy of physical plant modeling and robust control strategies.
 
+---
+
+<div style="display: flex; gap: 15px; margin: 30px 0; align-items: flex-start;">
+
+  <div style="flex: 1; text-align: center;">
+    <img src="/assets/images/PV5.png" alt="Automotive Thermal Systems"
+         style="width: 100%; height: 160px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); border: 1px solid #eee;">
+    <p style="font-size: 0.9rem; font-weight: bold; color: #333; margin-top: 10px;">🚗 Automotive<br><span style="font-weight: normal; font-size: 0.8rem; color: #666;">TMS Architecture & Logic</span></p>
+  </div>
+
+  <div style="flex: 1; text-align: center;">
+    <img src="/assets/images/VFCV_1.jpg" alt="Aerospace Control"
+         style="width: 100%; height: 160px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); border: 1px solid #eee;">
+    <p style="font-size: 0.9rem; font-weight: bold; color: #333; margin-top: 10px;">🚀 Aerospace<br><span style="font-weight: normal; font-size: 0.8rem; color: #666;">6-DOF GNC & Embedded</span></p>
+  </div>
+
+  <div style="flex: 1; text-align: center;">
+    <img src="/assets/images/Uomo.png" alt="Robotics Integration"
+         style="width: 100%; height: 160px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); border: 1px solid #eee;">
+    <p style="font-size: 0.9rem; font-weight: bold; color: #333; margin-top: 10px;">🤖 Robotics<br><span style="font-weight: normal; font-size: 0.8rem; color: #666;">HW Integration & HIL</span></p>
+  </div>
+
+</div>
 ---
 
 ### 📊 Professional & Technical Milestones
